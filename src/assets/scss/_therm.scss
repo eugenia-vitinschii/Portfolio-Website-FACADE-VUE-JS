@@ -1,0 +1,327 @@
+.therm {
+   &__system {
+     margin-top: $margin-top;
+   }
+   &__content {
+     display: flex;
+   }
+   &__description-txt {
+     //paragraph
+     background: $white;
+     width: 450px;
+     padding: $margin-sm;
+     @include line();
+     @include shadowBottom();
+     p {
+       margin: 30px 0px;
+     }
+   }
+   &__imgs {
+     //Two img
+     width: 700px;
+     display: flex;
+     justify-content: space-around;
+   }
+   &__garant {
+     //img container
+     width: 230px;
+   }
+ 
+   &__img-item {
+     //img src
+     margin-top: $margin-top;
+    padding: 30px;
+     width: 100%;
+     transition-duration: 0.6s;
+   }
+ 
+   &__img-item:hover {
+     width: 230px;
+     padding: 0px;
+   }
+ 
+   &__item {
+      display: flex;
+      flex-direction: row;
+      justify-content: flex-start;
+      flex-wrap: wrap;
+      width: 100%;
+      margin-top: $margin-top;
+    margin-bottom: $margin-top;
+   }
+   &__card ,  &__space {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      flex-direction: column;
+      width: 210px;
+      max-width: 250px;
+      min-width: 150px;
+      flex: 1 1 160px;
+      background: $white;
+
+     
+      
+   }
+
+   &__card {
+    padding: 10px;
+      border: 2px solid #ffffff;
+      box-shadow: 2px 2px 10px #f5f4f7;
+      border-radius: 5px;
+      position: relative;
+      @include animations();   
+      margin: 10px;
+   }
+   &__space {
+      height: 1px;
+      background: transparent;
+
+   }
+   &__card:hover {
+     @include shadowHover();
+   }
+   
+   &__img {
+      display: inline-block;
+      background-position: center center;
+      background-repeat: no-repeat;
+      margin: 0;
+      padding: 0;
+   }
+   &__img-img{
+      width: 150px;
+      margin: 20px 0px 0px;
+      height: 140px;
+      background-size: contain;
+   }
+  
+ 
+   &__label {
+     // laber for card
+     display: flex;
+     align-items: center;
+     position: absolute;
+     display: block;
+     background-color: $red;
+     height: 20px;
+     padding: 5px;
+     top: 15px;
+     left: 0px;
+     font-size: 10px;
+     border-top-right-radius: 10px;
+     border-bottom-right-radius: 10px;
+     width: 90px;
+     color: $white;
+   }
+   &__text-title {
+     //title description
+     text-align: center;
+     font-size: $body-text;
+     line-height: 25px;
+     height: 65px;
+   }
+   &__text {
+     // subtitle info
+     border-top: 2px solid black;
+     margin: 10px 5px;
+     padding: 10px 0px 0px 0px;
+     font-size: $body-text-sm;
+     line-height: 24px;
+     font-weight: bold;
+     height: 110px;
+     overflow: hidden;
+     text-align: start;
+   }
+ }
+ @media (max-width: 1004px) {
+   .therm {
+     &__card {
+       // item product
+       flex: 1 1 100px;
+       margin: 10px 5px 0px 0px;
+     }
+     &__img {
+       //img container
+       width: 150px;
+       height: 150px;
+       margin-bottom: 30px;
+     }
+     &__text-title {
+       //title description
+       font-size: $body-text-sm;
+       line-height: 15px;
+       height: 60px;
+     }
+     &__text {
+       // subtitle info
+       border-top: 1px solid black;
+     }
+   }
+ }
+ @media (max-width: 986px) {
+   .therm {
+     &__content {
+       // Text and img block
+       display: flex;
+     }
+ 
+     &__imgs {
+       //Two img
+       width: 100%;
+       align-items: center;
+     }
+     &__garant {
+       //img container
+       width: 150px;
+     }
+ 
+     &__img-item:hover {
+       width: 160px;
+     }
+   }
+ }
+ @media (max-width: 800px) {
+   .therm {
+     &__text-title {
+       //title description
+       font-size: $body-text-sm;
+       line-height: 15px;
+     }
+     &__text {
+       // subtitle info
+       border-top: 1px solid black;
+     }
+ 
+     &__system {
+       //one system item like max 15 all block
+       margin-top: $margin-sm;
+     }
+     &__content {
+       // Text and img block
+       flex-direction: column;
+     }
+ 
+     &__imgs {
+       //Two img
+       margin-top: $margin-sm;
+       width: 100%;
+       display: flex;
+       align-items: center;
+     }
+     &__garant {
+       //img container
+       width: 200px;
+     }
+     &__img-item:hover {
+       width: 220px;
+     }
+   }
+ }
+ 
+ @media (max-width: 500px) {
+   .therm {
+     &__description-txt {
+       //paragraph
+       width: 320px;
+     }
+     &__garant {
+       //img container
+       width: 200px;
+     }
+   }
+ }
+ 
+ @media (max-width: 375px) {
+   .therm {
+ 
+     &__text-title {
+       //title description
+       font-size: $body-text-sm;
+       line-height: 15px;
+       height: 60px;
+     }
+     &__text {
+       // subtitle info
+       border-top: 1px solid black;
+     }
+     &__system {
+       //one system item like max 15 all block
+       margin-top: $margin-sm;
+     }
+ 
+     &__description-txt {
+       //paragraph
+       width: 300px;
+     }
+     &__imgs {
+       //Two img
+ 
+       width: 100%;
+     }
+     &__garant {
+       //img container
+       width: 200px;
+     }
+ 
+     &__img-item {
+       //img src
+       width: 100%;
+       transition-duration: 0.6s;
+     }
+ 
+     &__img-item:hover {
+       width: 100%;
+     }
+   }
+ }
+// product card
+
+ @media (max-width: 589px) {
+   .therm {
+      &__card,   &__space  {
+         width: 170px;
+         max-width: 200px;
+         min-width: 140px;
+         flex: 1 1 120px;
+         padding: 5px;
+         margin: 5px;
+         align-items: center;
+      }
+
+      &__img {
+    
+         width: 100px;
+           margin-bottom: 20px;
+            height: 100px;
+         img {
+           width: 100%;
+           height: 100%;
+         }
+      }
+      &__label {
+         width: 69px;
+         height: 17px;
+         padding: 5px;
+         top: 10px;
+         left: 0px;
+         font-size: 7px;
+      }
+
+   }
+}
+@media (max-width: 320px) {
+   .therm {
+         &__card,   &__space  {
+         min-width: 90px;
+         flex: 1 1 120px;
+      }
+   }
+}
+@media (max-width: 280px) {
+   .therm {
+         &__card,   &__space  {
+            max-width: 250px;
+      }
+   }
+}

@@ -1,0 +1,180 @@
+//colors
+$yellow: #f0d247;
+$bg-gradient: linear-gradient(90deg, rgba(249, 207, 13, 1) 40%, rgba(255, 244, 244, 1) 100%);
+$black: #000;
+$gray: #696969;
+$white: #fff;
+$red: #e50000;
+$green: #228b22;
+//sizes
+$button-text: 15px;
+$nav: 13px;
+$border-radius: 5px;
+$border-radius-b: 15px;
+$margin-top: 20px;
+$margin-sm: 10px;
+$min-margin: 1px;
+$shadow: 2px 2px 10px $yellow;
+
+//font sizes
+$headings: 20px;
+$headings-sm: 18px;
+
+$subheadings: 18px;
+$subheadings-sm: 16px;
+
+$body-text: 16px;
+$body-text-sm: 14px;
+
+.wrapper {
+	background: $bg-gradient;
+	display: flex;
+	flex-direction: column;
+	min-height: 100vh;
+}
+.content {
+	flex: 1 0 auto;
+	padding: 120px 0px 0px 0px;
+}
+
+.container {
+	max-width: 1200px;
+	margin: 0px auto;
+	padding: 0px 10px;
+}
+.footer {
+	flex: 0 0 auto;
+}
+.title {
+	font-size: $headings;
+	letter-spacing: 1px;
+}
+.title {
+	margin: 10px 0px 0px 0px;
+	align-self: center;
+	background: $white;
+	padding: $margin-sm;
+	width: 450px;
+	font-weight: bold;
+	line-height: 40px;
+	overflow: hidden;
+	border-top-right-radius: $border-radius;
+	border-bottom-right-radius: $border-radius;
+}
+
+.title:before {
+	content: " ";
+	width: 6px;
+	height: 60px;
+	position: absolute;
+	background: linear-gradient(to right, #000 50%, #f0d247 50%);
+	margin: -10px 0px 60px -10px;
+}
+.subheading {
+	margin: $margin-top 0;
+	font-size: $subheadings;
+	letter-spacing: 1px;
+	line-height: 20px;
+	// color: $black;
+	transition-duration: 1.9s;
+	transition-timing-function: ease;
+}
+// .subheading:hover{
+
+// 	color: $yellow;
+
+// }
+
+.paragraph {
+	font-size: $body-text;
+	line-height: 25px;
+}
+
+.bold {
+	font-weight: bold;
+}
+.yellow {
+	color: $yellow;
+}
+
+// For media
+
+@media (max-width: 500px) {
+	.title {
+		font-size: $subheadings-sm;
+		padding: $margin-sm;
+		width: 320px;
+		line-height: 30px;
+	}
+	.title:before {
+		content: " ";
+		height: 50px;
+	}
+	.paragraph {
+		font-size: $body-text-sm;
+		line-height: 25px;
+	}
+}
+
+@media (max-width: 375px) {
+	.title {
+		width: 300px;
+		line-height: 22px;
+		padding-bottom: 10px;
+		padding-top: 10px;
+	}
+	.title:before {
+		content: " ";
+		height: 43px;
+	}
+	.paragraph {
+		line-height: 20x;
+	}
+}
+
+.black__button {
+background: $black;
+color: $yellow;
+ 	
+}
+.black__button:hover {
+	background: $gray;
+	color: $white;
+}
+.black__button:active {
+	background: #f0d247;
+	color: $white;
+}
+
+
+.black__button,
+.green__button,
+.red__button {
+	text-align: center;
+	padding: 5px 10px;
+	width: 130px;
+	margin: 0px 0px 0px 10px;
+	border-radius: 5px;
+	cursor: pointer;
+	font-size: $body-text-sm;
+}
+.black__button.hidden {
+	display: none;
+}
+.black__button:hover, .green__button:hover, .red__button:hover{
+	background: $gray;
+	color: $white;
+}
+.black__button:active {
+	background: #f0d247;
+	color: #fff;
+}
+
+.green__button {
+	background: $green;
+	color: $white;
+}
+.red__button {
+	background: $red;
+	color: $white;
+}

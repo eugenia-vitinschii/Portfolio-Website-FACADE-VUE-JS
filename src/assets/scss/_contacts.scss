@@ -1,0 +1,55 @@
+.info {
+
+   &__wrapper {
+      display: flex;
+      justify-content: space-between;
+
+   }
+   &__contacts,   &__call {
+      width: 450px;
+      min-width: 300px;
+      margin: 0px 20px 0px 0px;
+      overflow: hidden;
+   }
+   &__contacts-block, &__form{
+      @include shadowBottom();
+      @include line();
+      display: flex;
+      flex-direction: column;
+      justify-content: space-between;
+      background: $white;
+      height: 380px;
+      width: 100%;
+      padding: 10px 10px;
+
+   }
+   &__button {
+      margin: $margin-sm 0px 0px 20px;
+   }
+}
+@media (max-width: 685px) {
+   .info {
+      &__wrapper {
+         flex-direction: column;
+         justify-content: space-between;
+         max-width: 680px;
+         min-width: 150px;
+
+
+      }
+      &__contacts,     &__call  {
+         width: 150px;
+         min-width: 100%;
+         margin: 0px 20px 0px 0px;
+         overflow: hidden;
+      }
+      &__call  {
+         margin-top: $margin-top;
+      }
+      &__contacts-block,  &__form {
+         height: 380px;
+         width: 100%;
+         padding: 10px 10px;
+      }
+   }
+}

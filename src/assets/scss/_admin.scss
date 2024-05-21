@@ -1,0 +1,153 @@
+//admin page style
+.admin {
+
+   a,
+   button {
+      margin-top: $margin-sm;
+   }
+   &__wrapper {
+      display: flex;
+      justify-content: start;
+      align-items: start;
+      margin-top: -120px;
+   }
+   .admin__panel {
+      height: 300px;
+      background: $black;
+      padding: 20px 10px;
+      width: 320px;
+      border-radius: $border-radius;
+   }
+   .admin__admin {
+      text-align: center;
+   }
+   .admin__title {
+      text-align: center;
+      color: $white;
+   }
+
+   .admin__buttons {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+   }
+}
+
+// Add product page style
+.add {
+   margin-left: $margin-sm;
+   width: 100%;
+   &__buttons {
+      display: flex;
+      flex-wrap: wrap;
+   }
+
+   &__items {
+      position: relative;
+      max-width: 600px
+   }
+   &__item {
+      @include animations();
+      @include shadow();
+      position: absolute;
+      left: -300;
+      top: -10;
+      width:100%;
+      background: $white;
+      padding: $margin-sm;
+      margin-top: $margin-sm;
+   }
+   &__item:hover {
+      @include shadowHover();
+   }
+   &__form {
+   }
+}
+
+//Edit product
+.edit {
+   max-width: 850px;;
+   height: 100vh;
+   overflow: scroll;
+   margin: $margin-sm 0px $margin-sm $margin-sm;
+   &__table {
+      min-width: 100%;
+      @include shadow();
+      @include animations();
+      padding: $margin-sm;
+      background: $white;
+      
+   }
+   th {
+      text-align: left;
+      font-weight: bold;
+      background: $yellow;
+      padding: 15px 5px;
+   }
+   td {
+      text-align: center;
+      padding: 15px 5px;
+      border-bottom: 1px solid $black;
+   }
+   tr {
+      border-collapse: collapse;
+   }
+   tr:hover {
+      @include animations();
+      cursor: pointer;
+      background-color: $yellow;
+   }
+}
+
+//popup styles
+
+.popup.active {
+   display: block;
+}
+
+#popup__tencuiala,
+#popup__grund,
+#popup__adeziv,
+#popup__hidro {
+   display: none;
+}
+#popup__tencuiala.active,
+#popup__grund.active,
+#popup__adeziv.active,
+#popup__hidro.active {
+   display: block;
+}
+@media (max-width: 690px){
+//admin page style
+.admin {
+
+   &__wrapper {
+      display: flex;
+      flex-direction: column;
+   }
+   .admin__panel {
+      height: 200px;
+      padding: 20px;
+      width: 100%;
+      border-radius: $border-radius;
+   }
+}
+// Add product page style
+.add {
+   margin-left: 0px;
+   width: 100%;
+}
+//Edit product
+.edit {
+  max-width: 800px;
+   overflow: scroll;
+   margin: 10px 0px;
+   &__table {
+      width: 100%;
+      padding: 0px;      
+   }
+   th, td{
+      padding: 5px 5px;
+   }
+}
+}
