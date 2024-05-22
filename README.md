@@ -1,5 +1,5 @@
 # portfolio
-Vue JS website
+Vue JS website Options API #1
 Vue router
 db.json (self-create)
 SCSS 
