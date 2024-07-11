@@ -1,36 +1,26 @@
-# portfolio
-Vue JS website Options API #1
-Vue router
-db.json (self-create)
-SCSS 
- [https://youtu.be/36Chx-Gtx_g](url)
+$\color{#33CAFF}{\textsf{Vue JS | Options API | VUE Router | db.json | SCSS }}$
 
- About Project
+ $\color{#33CAFF}{\textsf{ Admin pages }}$
+ 
+<sub> Add & Edit & Delete item</sub>
+<sub> Login | Register | LOG OUT</sub>
 
-- Home page;
-- About using products (systems);
-- Products Page (search)
-- -  Page product (description, product cost calculator for the required area, component with product data)
+ $\color{#33CAFF}{\textsf{ Main pages }}$
+
+<sub> Home | About | Products | Product </sub>
+
+ $\color{#33CAFF}{\textsf{ Product Page }}$
+
+
+<sub>Description | Cost calculator for the required area | component with product data |</sub>
+
+ 
  ![Image](https://github.com/users/eugenia-vitinschii/projects/1/assets/120458882/efa19dec-36c5-4b45-af82-649ad2968c21)
 
-- Contacts Page 
-- Login /Register page  (for using admin page)
-- Admin page
-- - Add product popup
-- - Table for delete /update some product
-- - Update product
-- - Button for log out
 
-
-Responsive website
+ $\color{#33CAFF}{\textsf{ Responsive website}}$
  
-
-
-
-
-
-
-- :hover, :active, :focus animations, shadows;
-- reset *{} default styles ;
-- variables _(for colors, font-sizes,  borders ...)_;
-- mixins _(for animations, shadows, ..)_;
+<sub>:hover, :active, :focus animations, shadows |</sub>
+<sub>reset *{} default styles |</sub>
+<sub>variables _(for colors, font-sizes,  borders ...) |</sub>
+<sub>mixins _(for animations, shadows, ..) |</sub>
