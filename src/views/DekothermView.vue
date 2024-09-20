@@ -115,9 +115,9 @@
 
 <script>
 import axios from "axios";
-import ThermDescription from "../UI/ThermDescription.vue";
-import ThermImg from "../UI/ThermImg.vue";
-import ThermItem from "../UI/ThermItem.vue";
+import ThermDescription from "../components/UI/ThermDescription.vue";
+import ThermImg from "../components/UI/ThermImg.vue";
+import ThermItem from "../components/UI/ThermItem.vue";
 
 export default {
   components: {
@@ -125,7 +125,7 @@ export default {
     ThermImg,
     ThermItem,
   },
-  name: "DekothermPage",
+  name: "DekothermView",
   data() {
     return {
       products: [],

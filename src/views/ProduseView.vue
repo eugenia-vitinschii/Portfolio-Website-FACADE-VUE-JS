@@ -68,12 +68,12 @@
 
 <script>
 import axios from "axios";
-import CardProduct from "../UI/CardProduct.vue";
+import CardProduct from "../components/UI/CardProduct.vue";
 
 export default {
   inheritAttrs: false,
   components: { CardProduct },
-  name: "ProdusePage",
+  name: "ProduseView",
   data() {
     return {
       searchTerm: "",

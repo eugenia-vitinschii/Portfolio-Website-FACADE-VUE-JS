@@ -1,42 +1,49 @@
-import HomePage  from './SiteMap/HomePage.vue';
-import DekothermPage from './SiteMap/DekothermPage.vue';
-import ProdusePage from './SiteMap/ProdusePage.vue';
-import ContactePage from './SiteMap/ContactePage.vue';
-import AdminPage from './Admin/AdminPage.vue';
-import TencuieliPage from './Pages/TencuieliPage.vue';
-import GrunduriPage from './Pages/GrunduriPage.vue';
-import AdeziviPage from './Pages/AdeziviPage.vue';
-import HidroizolatiiPage from './Pages/HidroizolatiiPage.vue';
-import UpdateProduct from './Admin/UpdateProduct.vue';
-import UpdateGrund from './Admin/UpdateGrund.vue';
-import UpdateAdeziv from './Admin/UpdateAdeziv.vue';
-import UpdateHidro from './Admin/UpdateHidro.vue';
-import LoginPage from './SiteMap/LoginPage.vue';
 
-import SignupPage from './SiteMap/SignupPage.vue';
+import AdminPage from '../components/Admin/AdminPage.vue';
+import TencuieliPage from '../components/Pages/TencuieliPage.vue';
+import GrunduriPage from '../components/Pages/GrunduriPage.vue';
+import AdeziviPage from '../components/Pages/AdeziviPage.vue';
+import HidroizolatiiPage from '../components/Pages/HidroizolatiiPage.vue';
+import UpdateProduct from '../components/Admin/UpdateProduct.vue';
+import UpdateGrund from '../components/Admin/UpdateGrund.vue';
+import UpdateAdeziv from '../components/Admin/UpdateAdeziv.vue';
+import UpdateHidro from '../components/Admin/UpdateHidro.vue';
+
 import { createRouter, createWebHistory} from 'vue-router';
 
 
 const routes = [
    {
-      name: "HomePage",
-      component: HomePage,
+      name: "HomeView",
+      component: () => import('../views/HomeView.vue'),
       path: '/'
    },
    {
-      name: "DekothermPage",
-      component: DekothermPage,
+      name: "DekothermView",
+      component: () => import('../views/DekothermView.vue'),
       path: '/deko-therm'
    },
    {
-      name: "ProdusePage",
-      component: ProdusePage,
+      name: "ProduseView",
+      component: () => import('../views/ProduseView.vue'),
       path: '/produse'
    },
    {
-      name: "ContactePage",
-      component: ContactePage,
+      name: "ContacteView",
+      component: () => import('../views/ContacteView.vue'),
       path: '/contacte'
+   },
+   {
+      name: "LoginView",
+      component: () => import('../views/LoginView.vue'),
+      path: '/login',
+      props: true 
+   },
+   {
+      name: "SignupView",
+      component: () => import('../views/SignupView.vue'),
+      path: '/signup',
+      props: true 
    },
    {
       name: "AdminPage",
@@ -91,18 +98,6 @@ const routes = [
       path: '/update-hidro/:id',
       props: true 
    },
-   {
-      name: "LoginPage",
-      component: LoginPage,
-      path: '/login',
-      props: true 
-   },
-   {
-      name: "SignupPage",
-      component: SignupPage,
-      path: '/signup',
-      props: true 
-   }
 ]
 
 const router = createRouter ({

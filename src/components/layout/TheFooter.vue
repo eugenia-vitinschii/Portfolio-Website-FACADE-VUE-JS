@@ -38,7 +38,7 @@
 </template>
 
 <script>
-import TheLink from "./TheLink.vue";
+import TheLink from "../UI/TheLink.vue";
 
 export default {
   components: { TheLink },

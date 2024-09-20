@@ -57,13 +57,13 @@
 </template>
   
 <script>
-import IconTxt from "../UI/IconTxt.vue";
-import TheHead from "../UI/TheHead.vue";
-import TheInput from "../UI/TheInput.vue";
-import TheTextarea from "../UI/TheTextarea.vue";
+import IconTxt from "../components/UI/IconTxt.vue";
+import TheHead from "../components/UI/TheHead.vue";
+import TheInput from "../components/UI/TheInput.vue";
+import TheTextarea from "../components/UI/TheTextarea.vue";
 export default {
   components: { TheHead, IconTxt, TheInput, TheTextarea },
-  name: "ContactePage",
+  name: "ContacteView",
   data() {
     return {
       info: [
@@ -107,7 +107,5 @@ export default {
 </script>
 
 <style lang="scss">
-.info {
-  // margin-top: -1100px;
-}
+
 </style>

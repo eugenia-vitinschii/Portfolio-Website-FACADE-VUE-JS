@@ -33,11 +33,11 @@
 
 <script>
 import axios from "axios";
-import TheInput from "../UI/TheInput.vue";
-import TheHead from '../UI/TheHead.vue';
+import TheInput from "../components/UI/TheInput.vue";
+import TheHead from '../components/UI/TheHead.vue';
 export default {
   components: { TheInput, TheHead },
-  name: "LoginPage",
+  name: "LoginView",
   data() {
     return {
       name: "",

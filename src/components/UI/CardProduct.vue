@@ -62,7 +62,7 @@ export default {
 
 </script>
 
-<style lang="scss">
+<style lang="scss" scoped>
 li{
    padding: 5px 10px;
 	width: 150px;

@@ -79,14 +79,14 @@
    
 <script>
 import axios from "axios";
-import CardProduct from "../UI/CardProduct.vue";
-import TheFeatures from "../UI/TheFeatures.vue";
-import TheHead from "../UI/TheHead.vue";
-import HeadTag from "../UI/TheHead.vue";
+import CardProduct from "../components/UI/CardProduct.vue";
+import TheFeatures from "../components/UI/TheFeatures.vue";
+import TheHead from "../components/UI/TheHead.vue";
+import HeadTag from "../components/UI/TheHead.vue";
 
 export default {
   components: { TheFeatures, CardProduct, TheHead, HeadTag },
-  name: "HomePage",
+  name: "HomeView",
   data() {
     return {
       system: "text  7u667676767",

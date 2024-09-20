@@ -2,16 +2,17 @@
   <div class="wrapper">
     <div class="content">
       <app-header />
-      <router-view></router-view>
+      <router-view/>
     </div>
     <the-footer />
   </div>
   <scroll-back />
 </template>
 <script>
-import AppHeader from "./components/UI/AppHeader.vue";
+import AppHeader from "./components/layout/AppHeader.vue";
 import ScrollBack from "./components/UI/ScrollBack.vue";
-import TheFooter from "./components/UI/TheFooter.vue";
+import TheFooter from "./components/layout/TheFooter.vue";
+
 
 export default {
   components: { AppHeader, TheFooter, ScrollBack },
