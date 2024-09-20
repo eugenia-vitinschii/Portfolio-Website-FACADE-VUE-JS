@@ -1,6 +1,5 @@
-//admin page style
+//admin page styles
 .admin {
-
    a,
    button {
       margin-top: $margin-sm;
@@ -44,7 +43,7 @@
 
    &__items {
       position: relative;
-      max-width: 600px
+      max-width: 600px;
    }
    &__item {
       @include animations();
@@ -52,7 +51,7 @@
       position: absolute;
       left: -300;
       top: -10;
-      width:100%;
+      width: 100%;
       background: $white;
       padding: $margin-sm;
       margin-top: $margin-sm;
@@ -66,7 +65,7 @@
 
 //Edit product
 .edit {
-   max-width: 850px;;
+   max-width: 850px;
    height: 100vh;
    overflow: scroll;
    margin: $margin-sm 0px $margin-sm $margin-sm;
@@ -76,7 +75,6 @@
       @include animations();
       padding: $margin-sm;
       background: $white;
-      
    }
    th {
       text-align: left;
@@ -117,37 +115,37 @@
 #popup__hidro.active {
    display: block;
 }
-@media (max-width: 690px){
-//admin page style
-.admin {
-
-   &__wrapper {
-      display: flex;
-      flex-direction: column;
+@media (max-width: 690px) {
+   //admin page style
+   .admin {
+      &__wrapper {
+         display: flex;
+         flex-direction: column;
+      }
+      .admin__panel {
+         height: 200px;
+         padding: 20px;
+         width: 100%;
+         border-radius: $border-radius;
+      }
    }
-   .admin__panel {
-      height: 200px;
-      padding: 20px;
+   // Add product page style
+   .add {
+      margin-left: 0px;
       width: 100%;
-      border-radius: $border-radius;
    }
-}
-// Add product page style
-.add {
-   margin-left: 0px;
-   width: 100%;
-}
-//Edit product
-.edit {
-  max-width: 800px;
-   overflow: scroll;
-   margin: 10px 0px;
-   &__table {
-      width: 100%;
-      padding: 0px;      
+   //Edit product
+   .edit {
+      max-width: 800px;
+      overflow: scroll;
+      margin: 10px 0px;
+      &__table {
+         width: 100%;
+         padding: 0px;
+      }
+      th,
+      td {
+         padding: 5px 5px;
+      }
    }
-   th, td{
-      padding: 5px 5px;
-   }
-}
 }

@@ -1,0 +1,139 @@
+.footer {
+   border-top: 10px solid $white;
+   border-bottom: 10px solid $white;
+   background: $black;
+   padding: 50px 0px;
+   margin-top: $margin-top;
+   &__wrapper {
+     display: flex;
+     justify-content: space-between;
+   }
+   &__logo {
+     align-self: center;
+     width: 400px;
+     img {
+       width: 100%;
+     }
+   }
+   &__info {
+     //wrapper for contacts & program
+     width: 600px;
+     display: flex;
+     flex-direction: row;
+     justify-content: space-between;
+   }
+   &__contacts {
+     margin: 0px 20px;
+     p,
+     a {
+       color: white;
+       display: block;
+       
+     }
+     a{
+       @include animations();
+       margin-left: -10px;
+     }
+     a:hover{
+       color: $yellow;
+     }
+ 
+   }
+   &___program {
+     margin: 0px 20px;
+     p {
+       color: $white;
+     }
+   }
+ 
+   &__links {
+     display: block;
+   }
+   &__links-wrapper {
+     display: flex;
+   }
+   &__messaje {
+     text-align: center;
+     p {
+       margin: 50px 0px 0px 0px;
+       color: $white;
+     }
+   }
+ }
+ @media (max-width: 725px) {
+   .footer {
+     &__wrapper {
+       // display: flex;
+       // justify-content: space-between;
+       flex-direction: column;
+  
+     }
+     &__logo {
+         // align-self: center;
+       width: 100%;
+       img {
+         width: 100%;
+       }
+     }
+     &__info {
+       //wrapper for contacts & program
+       width: none;
+       display: flex;
+       flex-direction: row;
+       justify-content: space-between;
+       width: 100%;
+     }
+     &__contacts {
+       margin: 0px 20px;
+         // p,
+         // a {
+         //   color: white;
+         //   display: block;
+         // }
+     }
+     &___program {
+       margin: 0px 20px;
+       // p {
+       //   color: $white;
+       // }
+     }
+   
+     &__links {
+       display: block;
+     }
+     &__links-wrapper {
+       display: flex;
+     }
+     &__messaje {
+       text-align: center;
+       p {
+         margin: 50px 0px 0px 0px;
+         color: $white;
+       }
+     }
+   }
+ }
+ 
+ @media (max-width: 517px) {
+   .footer {
+ 
+     &__info {
+       //wrapper for contacts & program
+       flex-direction: column;
+     }
+     &__links {
+       display: block;
+     }
+     &__links-wrapper {
+       display: flex;
+     }
+     &__messaje {
+       text-align: center;
+       p {
+         margin: 50px 0px 0px 0px;
+         color: $white;
+       }
+     }
+   }
+ }
+ 

@@ -1,0 +1,87 @@
+
+.title {
+	font-size: $headings;
+	letter-spacing: 1px;
+}
+.title {
+	margin: 10px 0px 0px 0px;
+	align-self: center;
+	background: $white;
+	padding: $margin-sm;
+	width: 450px;
+	font-weight: bold;
+	line-height: 40px;
+	overflow: hidden;
+	border-top-right-radius: $border-radius;
+	border-bottom-right-radius: $border-radius;
+}
+
+.title:before {
+	content: " ";
+	width: 6px;
+	height: 60px;
+	position: absolute;
+	background: linear-gradient(to right, #000 50%, #f0d247 50%);
+	margin: -10px 0px 60px -10px;
+}
+.subheading {
+	margin: $margin-top 0;
+	font-size: $subheadings;
+	letter-spacing: 1px;
+	line-height: 20px;
+	// color: $black;
+	transition-duration: 1.9s;
+	transition-timing-function: ease;
+}
+// .subheading:hover{
+
+// 	color: $yellow;
+
+// }
+
+.paragraph {
+	font-size: $body-text;
+	line-height: 25px;
+}
+
+.bold {
+	font-weight: bold;
+}
+.yellow {
+	color: $yellow;
+}
+
+// For media
+
+@media (max-width: 500px) {
+	.title {
+		font-size: $subheadings-sm;
+		padding: $margin-sm;
+		width: 320px;
+		line-height: 30px;
+	}
+	.title:before {
+		content: " ";
+		height: 50px;
+	}
+	.paragraph {
+		font-size: $body-text-sm;
+		line-height: 25px;
+	}
+}
+
+@media (max-width: 375px) {
+	.title {
+		width: 300px;
+		line-height: 22px;
+		padding-bottom: 10px;
+		padding-top: 10px;
+	}
+	.title:before {
+		content: " ";
+		height: 43px;
+	}
+	.paragraph {
+		line-height: 20x;
+	}
+}

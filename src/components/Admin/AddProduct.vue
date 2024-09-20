@@ -5,7 +5,7 @@
         @click="showPopupTencuiala = !showPopupTencuiala"
         class="black__button"
       >
-        Add Tencuiala
+        Add Tencuială
       </button>
       <button class="black__button" @click="showPopupGrund = !showPopupGrund">
         Add Grund
