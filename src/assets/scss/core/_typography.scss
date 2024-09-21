@@ -1,3 +1,12 @@
+.red {
+   background: red;
+   color: #ffffff;
+}
+.green {
+   background: green;
+   color: #ffffff;
+}
+
 
 .title {
 	font-size: $headings;
@@ -33,11 +42,6 @@
 	transition-duration: 1.9s;
 	transition-timing-function: ease;
 }
-// .subheading:hover{
-
-// 	color: $yellow;
-
-// }
 
 .paragraph {
 	font-size: $body-text;

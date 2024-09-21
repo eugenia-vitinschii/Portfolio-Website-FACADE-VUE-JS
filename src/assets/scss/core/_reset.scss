@@ -1,7 +1,7 @@
-@import url("https://fonts.googleapis.com/css2?family=Indie+Flower&family=Montserrat:wght@100;400&family=Rubik:wght@300&display=swap");
+@import url('https://fonts.googleapis.com/css2?family=Dosis:wght@200..800&family=Edu+VIC+WA+NT+Beginner:wght@400..700&family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Outfit:wght@100..900&family=SUSE:wght@100..800&display=swap');
 * {
-	font-family: "Rubik", sans-serif;
-	font-weight: bold;
+	font-family: "Outfit", sans-serif;
+	font-weight: normal;
 	padding: 0;
 	margin: 0;
 	border: 0;
@@ -71,6 +71,7 @@ button::-moz-focus-inner {
 }
 a,
 a:visited {
+	color: $black;
 	text-decoration: none;
 }
 a:hover {

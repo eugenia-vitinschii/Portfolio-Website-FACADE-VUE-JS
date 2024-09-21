@@ -1,280 +1,543 @@
 {
-   "products": [
-     {
-       "id": "1",
-       "system": "DEKOTHERM",
-       "img": "https://shop.orgachim.bg/content/files/2023/02/24/3e1a4b76553dff1b46df9198669fb90a_product-detail.png",
-       "productType": "Tencuială Poliuretan",
-       "textureImg": "https://deko-professional.bg/wp-content/uploads/2022/07/shutterstock_111496382-1-1.jpg",
-       "option": "Mărimea B2/25kg",
-       "info": "DEKO professional Nano tencuiala poliuretanica, este un strat protector decorativ pentru pereti de cea mai inalta clasa pentru uz interior sau exterior. Produsul se caracterizează prin rezistență excelentă la intemperii, rezistență la fisuri, rezistență la ciuperci și mucegai și efectul de autocurățare al stratului de acoperire, păstrând fațada aspectul proaspăt pentru mai mult timp.",
-       "price": "43"
-     },
-     {
-       "id": "2",
-       "system": "DEKOTHERM",
-       "img": "https://shop.orgachim.bg/content/files/2023/02/24/3e1a4b76553dff1b46df9198669fb90a_lg.png",
-       "productType": "Tencuială Poliuretan",
-       "textureImg": "https://deko-professional.bg/wp-content/uploads/2022/07/shutterstock_344425091-1-2.jpg",
-       "option": "Mărimea D1.5/25kg",
-       "info": "DEKO professional Nano tencuiala poliuretanica,  este un strat protector decorativ pentru pereti de cea mai inalta clasa pentru uz interior sau exterior. Produsul se caracterizează prin rezistență excelentă la intemperii, rezistență la fisuri, rezistență la ciuperci și mucegai și efectul de autocurățare al stratului de acoperire, păstrând fațada aspectul proaspăt pentru mai mult timp.",
-       "price": "105"
-     },
-     {
-       "id": "3",
-       "system": "DEKOTHERM",
-       "img": "https://shop.orgachim.bg/content/files/2022/11/28/f32abe7fbc56f3c1afed4c0b7c52e1eb_lg.png",
-       "productType": "Tencuială Siliconică",
-       "textureImg": "https://deko-professional.bg/wp-content/uploads/2022/07/shutterstock_344425091-1-2.jpg",
-       "option": "Mărimea D1/25kg",
-       "info": "DEKO professional® V8067 Vopsea pentru fațade cu silicon este un produs pentru vopsirea exterioară, conceput pentru decorarea și protecția fațadelor supuse efectelor atmosferice nocive - apă, umiditate, raze ultraviolete, schimbări de temperatură și altele.Produsul poate fi folosit și ca element al sistemului de izolare termică DEKOTHERM®.",
-       "price": "109"
-     },
-     {
-       "id": "5",
-       "system": "DEKOTHERM",
-       "price": "98",
-       "img": "https://shop.orgachim.bg/content/files/2022/11/28/f32abe7fbc56f3c1afed4c0b7c52e1eb_product-detail.png",
-       "productType": "Tencuială Siliconică",
-       "option": "Mărimea D1.5/25kg",
-       "info": "DEKO professional® Vopsea pentru fațade cu silicon este un produs pentru vopsirea exterioară, conceput pentru decorarea și protecția fațadelor supuse efectelor atmosferice nocive - apă, umiditate, raze ultraviolete, schimbări de temperatură și altele.Produsul poate fi folosit și ca element al sistemului de izolare termică DEKOTHERM®.",
-       "textureImg": "https://deko-professional.bg/wp-content/uploads/2022/07/shutterstock_344425091-1-2.jpg"
-     },
-     {
-       "id": "4",
-       "system": "DEKOTHERM",
-       "price": "98",
-       "img": "https://shop.orgachim.bg/content/files/2022/11/28/f32abe7fbc56f3c1afed4c0b7c52e1eb_product-detail.png",
-       "productType": "Tencuială Siliconică",
-       "option": "Mărimea D2/25kg",
-       "info": "DEKO professional®Vopsea pentru fațade cu silicon este un produs pentru vopsirea exterioară, conceput pentru decorarea și protecția fațadelor supuse efectelor atmosferice nocive - apă, umiditate, raze ultraviolete, schimbări de temperatură și altele.Produsul poate fi folosit și ca element al sistemului de izolare termică DEKOTHERM®.",
-       "textureImg": "https://deko-professional.bg/wp-content/uploads/2022/07/shutterstock_344425091-1-2.jpg"
-     },
-     {
-       "id": "6",
-       "system": "DEKOTHERM",
-       "price": "78",
-       "img": "https://shop.orgachim.bg/content/files/2022/11/28/f32abe7fbc56f3c1afed4c0b7c52e1eb_product-detail.png",
-       "productType": "Tencuială Siliconică",
-       "info": "DEKO professional®  Vopsea pentru fațade cu silicon este un produs pentru vopsirea exterioară, conceput pentru decorarea și protecția fațadelor supuse efectelor atmosferice nocive - apă, umiditate, raze ultraviolete, schimbări de temperatură și altele.Produsul poate fi folosit și ca element al sistemului de izolare termică DEKOTHERM®.",
-       "option": "Mărimea B2/25kg",
-       "textureImg": "https://deko-professional.bg/wp-content/uploads/2022/07/shutterstock_111496382-1-1.jpg"
-     },
-     {
-       "id": "7",
-       "system": "DEKOTHERM",
-       "price": "160",
-       "img": "https://shop.orgachim.bg/content/files/2022/11/28/f32abe7fbc56f3c1afed4c0b7c52e1eb_product-detail.png",
-       "productType": "Tencuială Siliconică",
-       "info": "DEKO professional®  Vopsea pentru fațade cu silicon este un produs pentru vopsirea exterioară, conceput pentru decorarea și protecția fațadelor supuse efectelor atmosferice nocive - apă, umiditate, raze ultraviolete, schimbări de temperatură și altele.Produsul poate fi folosit și ca element al sistemului de izolare termică DEKOTHERM®.",
-       "option": "Mărimea B3/25kg",
-       "textureImg": "https://deko-professional.bg/wp-content/uploads/2022/07/shutterstock_111496382-1-1.jpg"
-     },
-     {
-       "id": "8",
-       "system": "DEKOTHERM",
-       "img": "https://shop.orgachim.bg/content/files/2022/11/28/0d935ebed52e96742e2dd56410fb1105_product-detail.png",
-       "productType": "Tencuială Silicat Modificat",
-       "option": "Mărimea D1.5/25kg",
-       "price": "160",
-       "info": "DEKO professional Silicat Modificat, structura zgariata B2 este un strat de protectie decorativ pentru pereti de uz interior sau exterior. Produsul se caracterizează prin rezistență excelentă la influențele atmosferice și rezistență ridicată la ardere (reacție la foc conform BDS EN 13501 - 1:2007+A1:2009 - clasa A2 - s1, d0). Tencuiala este folosita si ca acoperire de finisare la construirea unui sistem de izolare termica pentru fatada DEKOTHERM.",
-       "textureImg": "https://deko-professional.bg/wp-content/uploads/2022/07/shutterstock_344425091-1-2.jpg"
-     },
-     {
-       "id": "9",
-       "system": "DEKOTHERM",
-       "img": "https://shop.orgachim.bg/content/files/2022/11/28/0d935ebed52e96742e2dd56410fb1105_product-detail.png",
-       "productType": "Tencuială Silicat Modificat",
-       "option": "Mărimea D2/25kg",
-       "info": "DEKO professional Silicat Modificat, structura zgariata B2 este un strat de protectie decorativ pentru pereti de uz interior sau exterior. Produsul se caracterizează prin rezistență excelentă la influențele atmosferice și rezistență ridicată la ardere (reacție la foc conform BDS EN 13501 - 1:2007+A1:2009 - clasa A2 - s1, d0). Tencuiala este folosita si ca acoperire de finisare la construirea unui sistem de izolare termica pentru fatada DEKOTHERM.",
-       "price": "146",
-       "textureImg": "https://deko-professional.bg/wp-content/uploads/2022/07/shutterstock_344425091-1-2.jpg"
-     },
-     {
-       "id": "10",
-       "system": "DEKOTHERM",
-       "img": "https://shop.orgachim.bg/content/files/2022/11/28/0d935ebed52e96742e2dd56410fb1105_product-detail.png",
-       "productType": "Tencuială Silicat Modificat",
-       "option": "Mărimea B2/25kg",
-       "info": "DEKO professional Silicat Modificat, structura zgariata B2 este un strat de protectie decorativ pentru pereti de uz interior sau exterior. Produsul se caracterizează prin rezistență excelentă la influențele atmosferice și rezistență ridicată la ardere (reacție la foc conform BDS EN 13501 - 1:2007+A1:2009 - clasa A2 - s1, d0). Tencuiala este folosita si ca acoperire de finisare la construirea unui sistem de izolare termica pentru fatada DEKOTHERM.",
-       "price": "124",
-       "textureImg": "https://deko-professional.bg/wp-content/uploads/2022/07/shutterstock_111496382-1-1.jpg"
-     },
-     {
-       "id": "11",
-       "system": "DEKOTHERM",
-       "img": "https://shop.orgachim.bg/content/files/2022/11/28/0d935ebed52e96742e2dd56410fb1105_product-detail.png",
-       "productType": "Tencuială Silicat Modificat",
-       "info": "DEKO professional Silicat Modificat, structura zgariata B2 este un strat de protectie decorativ pentru pereti de uz interior sau exterior. Produsul se caracterizează prin rezistență excelentă la influențele atmosferice și rezistență ridicată la ardere (reacție la foc conform BDS EN 13501 - 1:2007+A1:2009 - clasa A2 - s1, d0). Tencuiala este folosita si ca acoperire de finisare la construirea unui sistem de izolare termica pentru fatada DEKOTHERM.",
-       "price": "190",
-       "option": "Mărimea B3/25kg",
-       "textureImg": "https://deko-professional.bg/wp-content/uploads/2022/07/shutterstock_111496382-1-1.jpg"
-     },
-     {
-       "id": "12",
-       "system": "DEKOTHERM",
-       "img": "https://shop.orgachim.bg/content/files/2022/11/28/97339b448313c120d5477006c436ac24_product-detail.png",
-       "productType": "Tencuială Polimerică",
-       "info": "DEKO profesional Tencuiala polimerica, este un strat de protectie decorativ pentru pereti de uz interior sau exterior. Produsul se caracterizează printr-o rezistență excelentă la intemperii și o rezistență foarte bună la crăpare a stratului de acoperire. Tencuiala polimerică T8300 este folosită și ca strat de finisare la construirea unui sistem de izolare termică pentru fațadă DEKOTHERM.",
-       "option": "Mărimea D1.5/25kg",
-       "price": "110",
-       "textureImg": "https://deko-professional.bg/wp-content/uploads/2022/07/shutterstock_344425091-1-2.jpg"
-     },
-     {
-       "id": "13",
-       "system": "DEKOTHERM",
-       "img": "https://shop.orgachim.bg/content/files/2022/11/28/97339b448313c120d5477006c436ac24_product-detail.png",
-       "productType": "Tencuială Polimerică",
-       "option": "Mărimea D2/25kg",
-       "info": "DEKO profesional Tencuiala polimerica, este un strat de protectie decorativ pentru pereti de uz interior sau exterior. Produsul se caracterizează printr-o rezistență excelentă la intemperii și o rezistență foarte bună la crăpare a stratului de acoperire. Tencuiala polimerică T8300 este folosită și ca strat de finisare la construirea unui sistem de izolare termică pentru fațadă DEKOTHERM.",
-       "price": "100",
-       "textureImg": "https://deko-professional.bg/wp-content/uploads/2022/07/shutterstock_344425091-1-2.jpg"
-     },
-     {
-       "id": "14",
-       "system": "DEKOTHERM",
-       "img": "https://shop.orgachim.bg/content/files/2022/11/28/97339b448313c120d5477006c436ac24_product-detail.png",
-       "productType": "Tencuială Polimerică",
-       "option": "Mărimea B2/25kg",
-       "info": "DEKO profesional Tencuiala polimerica, este un strat de protectie decorativ pentru pereti de uz interior sau exterior. Produsul se caracterizează printr-o rezistență excelentă la intemperii și o rezistență foarte bună la crăpare a stratului de acoperire. Tencuiala polimerică T8300 este folosită și ca strat de finisare la construirea unui sistem de izolare termică pentru fațadă DEKOTHERM.",
-       "price": "100",
-       "textureImg": "https://deko-professional.bg/wp-content/uploads/2022/07/shutterstock_111496382-1-1.jpg"
-     },
-     {
-       "id": "15",
-       "system": "DEKOTHERM",
-       "img": "https://shop.orgachim.bg/content/files/2022/11/28/97339b448313c120d5477006c436ac24_product-detail.png",
-       "productType": "Tencuială Polimerică",
-       "info": "DEKO profesional Tencuiala polimerica, este un strat de protectie decorativ pentru pereti de uz interior sau exterior. Produsul se caracterizează printr-o rezistență excelentă la intemperii și o rezistență foarte bună la crăpare a stratului de acoperire. Tencuiala polimerică T8300 este folosită și ca strat de finisare la construirea unui sistem de izolare termică pentru fațadă DEKOTHERM.",
-       "price": "100",
-       "option": "Mărimea B3/25kg",
-       "textureImg": "https://deko-professional.bg/wp-content/uploads/2022/07/shutterstock_111496382-1-1.jpg"
-     },
-     {
-       "id": "16",
-       "system": "DEKOTHERM",
-       "img": "https://shop.orgachim.bg/content/files/2022/10/24/5f29f907d959a7e718fa958c1f98f855_product-detail.png",
-       "productType": "Tencuială de marmură",
-       "option": "Toate culorile",
-       "price": "360",
-       "textureImg": "https://shop.orgachim.bg/content/files/2022/10/20/52c50c89a3a79d8c8fec67de64872991_product-detail.png"
-     },
-     {
-       "id": "17",
-       "system": "DEKOTHERM",
-       "img": "https://shop.orgachim.bg/content/files/2022/10/05/b771049f3afe0f255646451feb9f0e92_product-detail.png",
-       "productType": " Tencuială Relief",
-       "option": "Alb 25 kg",
-       "price": "170",
-       "textureImg": "https://shop.orgachim.bg/content/files/2022/10/05/b771049f3afe0f255646451feb9f0e92_product-detail.png"
-     }
-   ],
-   "grunduri": [
-     {
-       "id": "18",
-       "system": "DEKOTHERM",
-       "img": "https://shop.orgachim.bg/content/files/2022/10/24/d1e63e22d6d2dcc4d947a8224a66c3eb_product-detail.png",
-       "productType": "Grund cu nisip",
-       "textureImg": "https://shop.orgachim.bg/content/files/2022/10/24/d1e63e22d6d2dcc4d947a8224a66c3eb_product-detail.png",
-       "option": "Acrilat",
-       "info": "Grund acrilat gata de utilizare care contine nisip cuarcios, folosit pentru a imbunatati aderenta bazei la stratul ulterioar (tencuieli, chituri, adezivi etc.). Grundul este deosebit de potrivit pentru suporturi neabsorbante - inainte de asamblarea placilor noi de faianta si teracota pe suporturi ceramice vechi sau vopsite (tigla pe gresie). Produsul este recomandat pentru utilizare înainte de construirea unui sistem de izolare termică pentru fațade DEKOTHERM.",
-       "price": "79"
-     },
-     {
-       "id": "19",
-       "system": "DEKOTHERM",
-       "img": "https://shop.orgachim.bg/content/files/2022/12/01/96388fe1db8a349072fe5f283459946d_product-detail.png",
-       "productType": "Grund concentrat",
-       "textureImg": "https://shop.orgachim.bg/content/files/2022/12/01/96388fe1db8a349072fe5f283459946d_product-detail.png",
-       "option": "1:10 5L",
-       "info": "DEKO professional G8520 este un grund pe bază de apă pentru impregnarea bazelor înainte de vopsirea interioară și exterioară și înainte de aplicarea tencuielilor și vopselelor decorative.",
-       "price": "23"
-     },
-     {
-       "id": "20-1",
-       "system": "DEKOTHERM",
-       "img": "https://shop.orgachim.bg/content/files/2022/12/01/aa41c7fe00e994bc1e19d613725f3483_product-detail.png",
-       "productType": "Grund Contact Concentrat",
-       "option": "1:10 5L",
-       "textureImg": "https://shop.orgachim.bg/content/files/2022/12/01/aa41c7fe00e994bc1e19d613725f3483_product-detail.png",
-       "info": "DEKO professional G8400 Concentrat de grund de contact DEKO professional G8400 este un concentrat de grund acrilat destinat suprafetelor de beton inainte de aplicarea sapelor de ciment.  Produsul intareste baza, ii uniformizeaza capacitatea de absorbtie si imbunatateste aderenta la sape subtiri de beton sau ciment.",
-       "price": "22"
-     }
-   ],
-   "adezivi": [
-     {
-       "id": "23",
-       "system": "DEKOTHERM",
-       "img": "https://shop.orgachim.bg/content/files/2023/07/06/2b1a738a52b5331961a382d84ffa6aad_product-detail.png",
-       "productType": "Adeziv Thermo Fix",
-       "option": "Greutatea 25kg",
-       "price": "14",
-       "info": "Amestec adeziv uscat pentru lipirea EPS și XPS (polistiren expandat / extrudat) pe un perete sau tavan direct pe tencuială, zidărie sau beton. Fibrele de armare și fibrele din compoziția lipiciului îi măresc rezistența și rezistența mecanică.",
-       "textureImg": "https://shop.orgachim.bg/content/files/2023/07/06/2b1a738a52b5331961a382d84ffa6aad_product-detail.png"
-     },
-     {
-       "id": "24",
-       "system": "DEKOTHERM",
-       "img": "https://shop.orgachim.bg/content/files/2022/08/15/62bb723ca8dfd39dfafa81ec090b6488_product-detail.png",
-       "productType": "Adeziv Thermo Mineral",
-       "textureImg": "https://shop.orgachim.bg/content/files/2022/08/15/62bb723ca8dfd39dfafa81ec090b6488_product-detail.png",
-       "option": "Greutatea 25 kg",
-       "info": "Deko professional Thermo Mineral este un amestec uscat de adeziv și chit pentru lipirea și tencuiala plăcilor termoizolante din vată de piatră, EPS și XPS. Amestecul adeziv-chit conține fibre care oferă o rezistență și o elasticitate mai mare și, în același timp, îmbunătățesc aderența la bază.",
-       "price": "22"
-     },
-     {
-       "id": "25",
-       "system": "DEKOTHERM",
-       "img": "https://shop.orgachim.bg/content/files/2022/08/15/010af32697491bbe15b18016137c59bc_product-detail.png",
-       "productType": "Adeziv Thermo Expert",
-       "option": "Greutatea 25 kg",
-       "price": "18",
-       "info": "Deko professional Thermo Expert este un amestec uscat de adeziv și chit de înaltă calitate pentru lipirea EPS și XPS (polistiren expandat / extrudat) pe un perete sau tavan direct pe tencuială, zidărie sau beton și pentru lipirea panourilor termoizolante cu inserarea unei plase de armare din fibra de sticla a sistemelor de termoizolatie interioare si exterioare. Produsul conține fibre care oferă o rezistență și o elasticitate mai mare și, în același timp, îmbunătățesc aderența la bază.",
-       "textureImg": "https://shop.orgachim.bg/content/files/2022/08/15/010af32697491bbe15b18016137c59bc_product-detail.png"
-     },
-     {
-       "id": "26",
-       "system": "DEKOTHERM",
-       "img": "https://shop.orgachim.bg/content/files/2022/08/15/23a8c9e9fb582575be21f9a9b2405e19_product-detail.png",
-       "productType": "Adeziv Thermo Universal",
-       "option": "Greutatea 25 kg",
-       "price": "19",
-       "info": "Thermo Universal este un amestec uscat de adeziv și chit pentru lipirea EPS și XPS (polistiren expandat / extrudat) pe un perete sau tavan direct pe tencuială, zidărie sau beton și pentru lipirea panourilor termoizolante cu inserarea unei plase de armare de fibra de sticla pe sisteme de termoizolatie interioare si exterioare. Fibrele de celuloză conținute în amestec măresc rezistența și rezistența întregului sistem de izolare termică la răni, fisuri și impacturi.",
-       "textureImg": "https://shop.orgachim.bg/content/files/2022/08/15/23a8c9e9fb582575be21f9a9b2405e19_product-detail.png"
-     }
-   ],
-   "hidroizolatii": [
-     {
-       "id": "20",
-       "system": "HIDROSYSTEM",
-       "img": "https://shop.orgachim.bg/content/files/2022/08/16/bc08996aaa95d642757e3cf83bdd28f2_product-detail.png",
-       "productType": "HydroProtect MONO",
-       "option": "Greutatea 25kg",
-       "price": "55",
-       "masa": "25",
-       "info": "HydroProtect MONO este un hidroizolant cristalizant de înaltă calitate sub formă de amestec uscat, care, după amestecare cu apă, formează o soluție lichidă și poate fi aplicat cu o perie plată, racletă sau spray. După uscare, produsul formează un strat dur care devine parte integrantă a fundațiilor din beton. Cristalizează în porii și capilarele betonului la contactul cu umiditatea sau apa.HydroProtect MONO este conceput pentru hidroizolarea piscinelor, rezervoarelor din zidarie sau beton care contin apa potabila - turnuri de apa, captare si altele; rezervoare din beton sau zidărie care conțin apă uzată.",
-       "textureImg": "https://shop.orgachim.bg/content/files/2022/08/16/bc08996aaa95d642757e3cf83bdd28f2_product-detail.png"
-     },
-     {
-       "id": "21",
-       "system": "HIDROSYSTEM",
-       "img": "https://shop.orgachim.bg/content/files/2022/08/16/b03bf475daaea239d914c222eedf8e60_product-detail.png",
-       "productType": "HydroProtect 2K",
-       "textureImg": "https://shop.orgachim.bg/content/files/2022/08/16/b03bf475daaea239d914c222eedf8e60_product-detail.png",
-       "option": "Greutatea 26kg",
-       "info": "Hidroizolație flexibilă, bicomponentă, pe bază de ciment, acoperind fisuri structurale de până la 1,0 mm. Se foloseste pentru: hidroizolarea teraselor si balcoanelor, piscinelor, cazilor de baie, rezervoarelor, bailor, cabinelor de dus si incaperilor supuse umiditatii ridicate; hidroizolarea teraselor si balcoanelor, inainte de pozarea ceramicii; hidroizolarea teraselor vechi fără a distruge pardoseala existentă; hidroizolarea structurilor din beton, înainte de așezarea șapelor de ciment sau turnarea betonului nou.",
-       "price": "119"
-     },
-     {
-       "id": "22",
-       "system": "HIDROSYSTEM",
-       "img": "https://shop.orgachim.bg/content/files/2022/08/16/9e5000a3fe5a79bebbf25380523a9e5c_product-detail.png",
-       "productType": "HydroProtect 2K FLEX",
-       "option": "Greutatea 32kg",
-       "price": "166",
-       "masa": "32",
-       "info": "Deko profesional HydroProtect FLEX este o hidroizolație flexibilă din două componente pe bază de ciment care acoperă fisurile structurale de până la 1,5 mm la temperaturi de până la -20°C. Produsul este destinat hidroizolării băilor, cabinelor de duș, încăperilor supuse umidității ridicate, piscinelor, căzilor, rezervoarelor de apă, hidroizolațiilor teraselor și balcoanelor, înainte de montarea paramentelor ceramice, granit sau piatră",
-       "textureImg": "https://shop.orgachim.bg/content/files/2022/08/16/9e5000a3fe5a79bebbf25380523a9e5c_product-detail.png"
-     }
-   ]
- }
+  "products": [
+    {
+      "id": "2",
+      "system": "DEKOTHERM",
+      "img": "https://shop.orgachim.bg/content/files/2023/02/24/3e1a4b76553dff1b46df9198669fb90a_lg.png",
+      "productType": "Tencuială Poliuretan",
+      "textureImg": "https://deko-professional.bg/wp-content/uploads/2022/07/shutterstock_344425091-1-2.jpg",
+      "option": "Mărimea D1.5/25kg",
+      "info": "DEKO professional Nano tencuiala poliuretanica,  este un strat protector decorativ pentru pereti de cea mai inalta clasa pentru uz interior sau exterior. Produsul se caracterizează prin rezistență excelentă la intemperii, rezistență la fisuri, rezistență la ciuperci și mucegai și efectul de autocurățare al stratului de acoperire, păstrând fațada aspectul proaspăt pentru mai mult timp.",
+      "price": 105
+    },
+    {
+      "id": "3",
+      "system": "DEKOTHERM",
+      "img": "https://shop.orgachim.bg/content/files/2022/11/28/f32abe7fbc56f3c1afed4c0b7c52e1eb_lg.png",
+      "productType": "Tencuială Siliconică",
+      "textureImg": "https://deko-professional.bg/wp-content/uploads/2022/07/shutterstock_344425091-1-2.jpg",
+      "option": "Mărimea D1/25kg",
+      "info": "DEKO professional® V8067 Vopsea pentru fațade cu silicon este un produs pentru vopsirea exterioară, conceput pentru decorarea și protecția fațadelor supuse efectelor atmosferice nocive - apă, umiditate, raze ultraviolete, schimbări de temperatură și altele.Produsul poate fi folosit și ca element al sistemului de izolare termică DEKOTHERM®.",
+      "price": "109"
+    },
+    {
+      "id": "5",
+      "system": "DEKOTHERM",
+      "img": "https://shop.orgachim.bg/content/files/2022/11/28/f32abe7fbc56f3c1afed4c0b7c52e1eb_product-detail.png",
+      "productType": "Tencuială Siliconică",
+      "textureImg": "https://deko-professional.bg/wp-content/uploads/2022/07/shutterstock_344425091-1-2.jpg",
+      "option": "Mărimea D1.5/25kg",
+      "info": "DEKO professional® Vopsea pentru fațade cu silicon este un produs pentru vopsirea exterioară, conceput pentru decorarea și protecția fațadelor supuse efectelor atmosferice nocive - apă, umiditate, raze ultraviolete, schimbări de temperatură și altele.Produsul poate fi folosit și ca element al sistemului de izolare termică DEKOTHERM®.",
+      "price": "98"
+    },
+    {
+      "id": "4",
+      "system": "DEKOTHERM",
+      "img": "https://shop.orgachim.bg/content/files/2022/11/28/f32abe7fbc56f3c1afed4c0b7c52e1eb_product-detail.png",
+      "productType": "Tencuială Siliconică",
+      "textureImg": "https://deko-professional.bg/wp-content/uploads/2022/07/shutterstock_344425091-1-2.jpg",
+      "option": "Mărimea D2/25kg",
+      "info": "DEKO professional®Vopsea pentru fațade cu silicon este un produs pentru vopsirea exterioară, conceput pentru decorarea și protecția fațadelor supuse efectelor atmosferice nocive - apă, umiditate, raze ultraviolete, schimbări de temperatură și altele.Produsul poate fi folosit și ca element al sistemului de izolare termică DEKOTHERM®.",
+      "price": "98"
+    },
+    {
+      "id": "6",
+      "system": "DEKOTHERM",
+      "img": "https://shop.orgachim.bg/content/files/2022/11/28/f32abe7fbc56f3c1afed4c0b7c52e1eb_product-detail.png",
+      "productType": "Tencuială Siliconică",
+      "textureImg": "https://deko-professional.bg/wp-content/uploads/2022/07/shutterstock_111496382-1-1.jpg",
+      "option": "Mărimea B2/25kg",
+      "info": "DEKO professional®  Vopsea pentru fațade cu silicon este un produs pentru vopsirea exterioară, conceput pentru decorarea și protecția fațadelor supuse efectelor atmosferice nocive - apă, umiditate, raze ultraviolete, schimbări de temperatură și altele.Produsul poate fi folosit și ca element al sistemului de izolare termică DEKOTHERM®.",
+      "price": "78"
+    },
+    {
+      "id": "7",
+      "system": "DEKOTHERM",
+      "img": "https://shop.orgachim.bg/content/files/2022/11/28/f32abe7fbc56f3c1afed4c0b7c52e1eb_product-detail.png",
+      "productType": "Tencuială Siliconică",
+      "textureImg": "https://deko-professional.bg/wp-content/uploads/2022/07/shutterstock_111496382-1-1.jpg",
+      "option": "Mărimea B3/25kg",
+      "info": "DEKO professional®  Vopsea pentru fațade cu silicon este un produs pentru vopsirea exterioară, conceput pentru decorarea și protecția fațadelor supuse efectelor atmosferice nocive - apă, umiditate, raze ultraviolete, schimbări de temperatură și altele.Produsul poate fi folosit și ca element al sistemului de izolare termică DEKOTHERM®.",
+      "price": "160"
+    },
+    {
+      "id": "8",
+      "system": "DEKOTHERM",
+      "img": "https://shop.orgachim.bg/content/files/2022/11/28/0d935ebed52e96742e2dd56410fb1105_product-detail.png",
+      "productType": "Tencuială Silicat Modificat",
+      "textureImg": "https://deko-professional.bg/wp-content/uploads/2022/07/shutterstock_344425091-1-2.jpg",
+      "option": "Mărimea D1.5/25kg",
+      "info": "DEKO professional Silicat Modificat, structura zgariata B2 este un strat de protectie decorativ pentru pereti de uz interior sau exterior. Produsul se caracterizează prin rezistență excelentă la influențele atmosferice și rezistență ridicată la ardere (reacție la foc conform BDS EN 13501 - 1:2007+A1:2009 - clasa A2 - s1, d0). Tencuiala este folosita si ca acoperire de finisare la construirea unui sistem de izolare termica pentru fatada DEKOTHERM.",
+      "price": "160"
+    },
+    {
+      "id": "9",
+      "system": "DEKOTHERM",
+      "img": "https://shop.orgachim.bg/content/files/2022/11/28/0d935ebed52e96742e2dd56410fb1105_product-detail.png",
+      "productType": "Tencuială Silicat Modificat",
+      "textureImg": "https://deko-professional.bg/wp-content/uploads/2022/07/shutterstock_344425091-1-2.jpg",
+      "option": "Mărimea D2/25kg",
+      "info": "DEKO professional Silicat Modificat, structura zgariata B2 este un strat de protectie decorativ pentru pereti de uz interior sau exterior. Produsul se caracterizează prin rezistență excelentă la influențele atmosferice și rezistență ridicată la ardere (reacție la foc conform BDS EN 13501 - 1:2007+A1:2009 - clasa A2 - s1, d0). Tencuiala este folosita si ca acoperire de finisare la construirea unui sistem de izolare termica pentru fatada DEKOTHERM.",
+      "price": "146"
+    },
+    {
+      "id": "10",
+      "system": "DEKOTHERM",
+      "img": "https://shop.orgachim.bg/content/files/2022/11/28/0d935ebed52e96742e2dd56410fb1105_product-detail.png",
+      "productType": "Tencuială Silicat Modificat",
+      "option": "Mărimea B2/25kg",
+      "info": "DEKO professional Silicat Modificat, structura zgariata B2 este un strat de protectie decorativ pentru pereti de uz interior sau exterior. Produsul se caracterizează prin rezistență excelentă la influențele atmosferice și rezistență ridicată la ardere (reacție la foc conform BDS EN 13501 - 1:2007+A1:2009 - clasa A2 - s1, d0). Tencuiala este folosita si ca acoperire de finisare la construirea unui sistem de izolare termica pentru fatada DEKOTHERM.",
+      "price": "124",
+      "textureImg": "https://deko-professional.bg/wp-content/uploads/2022/07/shutterstock_111496382-1-1.jpg"
+    },
+    {
+      "id": "11",
+      "system": "DEKOTHERM",
+      "img": "https://shop.orgachim.bg/content/files/2022/11/28/0d935ebed52e96742e2dd56410fb1105_product-detail.png",
+      "productType": "Tencuială Silicat Modificat",
+      "info": "DEKO professional Silicat Modificat, structura zgariata B2 este un strat de protectie decorativ pentru pereti de uz interior sau exterior. Produsul se caracterizează prin rezistență excelentă la influențele atmosferice și rezistență ridicată la ardere (reacție la foc conform BDS EN 13501 - 1:2007+A1:2009 - clasa A2 - s1, d0). Tencuiala este folosita si ca acoperire de finisare la construirea unui sistem de izolare termica pentru fatada DEKOTHERM.",
+      "price": "190",
+      "option": "Mărimea B3/25kg",
+      "textureImg": "https://deko-professional.bg/wp-content/uploads/2022/07/shutterstock_111496382-1-1.jpg"
+    },
+    {
+      "id": "12",
+      "system": "DEKOTHERM",
+      "img": "https://shop.orgachim.bg/content/files/2022/11/28/97339b448313c120d5477006c436ac24_product-detail.png",
+      "productType": "Tencuială Polimerică",
+      "textureImg": "https://deko-professional.bg/wp-content/uploads/2022/07/shutterstock_344425091-1-2.jpg",
+      "option": "Mărimea D1.5/25kg",
+      "info": "DEKO profesional Tencuiala polimerica, este un strat de protectie decorativ pentru pereti de uz interior sau exterior. Produsul se caracterizează printr-o rezistență excelentă la intemperii și o rezistență foarte bună la crăpare a stratului de acoperire. Tencuiala polimerică T8300 este folosită și ca strat de finisare la construirea unui sistem de izolare termică pentru fațadă DEKOTHERM.",
+      "price": "110"
+    },
+    {
+      "id": "13",
+      "system": "DEKOTHERM",
+      "img": "https://shop.orgachim.bg/content/files/2022/11/28/97339b448313c120d5477006c436ac24_product-detail.png",
+      "productType": "Tencuială Polimerică",
+      "textureImg": "https://deko-professional.bg/wp-content/uploads/2022/07/shutterstock_344425091-1-2.jpg",
+      "option": "Mărimea D2/25kg",
+      "info": "DEKO profesional Tencuiala polimerica, este un strat de protectie decorativ pentru pereti de uz interior sau exterior. Produsul se caracterizează printr-o rezistență excelentă la intemperii și o rezistență foarte bună la crăpare a stratului de acoperire. Tencuiala polimerică T8300 este folosită și ca strat de finisare la construirea unui sistem de izolare termică pentru fațadă DEKOTHERM.",
+      "price": "100"
+    },
+    {
+      "id": "14",
+      "system": "DEKOTHERM",
+      "img": "https://shop.orgachim.bg/content/files/2022/11/28/97339b448313c120d5477006c436ac24_product-detail.png",
+      "productType": "Tencuială Polimerică",
+      "textureImg": "https://deko-professional.bg/wp-content/uploads/2022/07/shutterstock_111496382-1-1.jpg",
+      "option": "Mărimea B2/25kg",
+      "info": "DEKO profesional Tencuiala polimerica, este un strat de protectie decorativ pentru pereti de uz interior sau exterior. Produsul se caracterizează printr-o rezistență excelentă la intemperii și o rezistență foarte bună la crăpare a stratului de acoperire. Tencuiala polimerică T8300 este folosită și ca strat de finisare la construirea unui sistem de izolare termică pentru fațadă DEKOTHERM.",
+      "price": "35"
+    },
+    {
+      "id": "15",
+      "system": "DEKOTHERM",
+      "img": "https://shop.orgachim.bg/content/files/2022/11/28/97339b448313c120d5477006c436ac24_product-detail.png",
+      "productType": "Tencuială Polimerică",
+      "info": "DEKO profesional Tencuiala polimerica, este un strat de protectie decorativ pentru pereti de uz interior sau exterior. Produsul se caracterizează printr-o rezistență excelentă la intemperii și o rezistență foarte bună la crăpare a stratului de acoperire. Tencuiala polimerică T8300 este folosită și ca strat de finisare la construirea unui sistem de izolare termică pentru fațadă DEKOTHERM.",
+      "price": "100",
+      "option": "Mărimea B3/25kg",
+      "textureImg": "https://deko-professional.bg/wp-content/uploads/2022/07/shutterstock_111496382-1-1.jpg"
+    },
+    {
+      "id": "16",
+      "system": "DEKOTHERM",
+      "img": "https://shop.orgachim.bg/content/files/2022/10/24/5f29f907d959a7e718fa958c1f98f855_product-detail.png",
+      "productType": "Tencuială de marmură",
+      "option": "Toate culorile",
+      "price": "360",
+      "textureImg": "https://shop.orgachim.bg/content/files/2022/10/20/52c50c89a3a79d8c8fec67de64872991_product-detail.png"
+    },
+    {
+      "id": "17",
+      "system": "DEKOTHERM",
+      "img": "https://shop.orgachim.bg/content/files/2022/10/05/b771049f3afe0f255646451feb9f0e92_product-detail.png",
+      "productType": " Tencuială Relief",
+      "option": "Alb 25 kg",
+      "price": "170",
+      "textureImg": "https://shop.orgachim.bg/content/files/2022/10/05/b771049f3afe0f255646451feb9f0e92_product-detail.png"
+    }
+  ],
+  "grunduri": [
+    {
+      "id": "18",
+      "system": "DEKOTHERM",
+      "img": "https://shop.orgachim.bg/content/files/2022/10/24/d1e63e22d6d2dcc4d947a8224a66c3eb_product-detail.png",
+      "productType": "Grund cu nisip",
+      "textureImg": "https://shop.orgachim.bg/content/files/2022/10/24/d1e63e22d6d2dcc4d947a8224a66c3eb_product-detail.png",
+      "option": "Acrilat",
+      "info": "Grund acrilat gata de utilizare care contine nisip cuarcios, folosit pentru a imbunatati aderenta bazei la stratul ulterioar (tencuieli, chituri, adezivi etc.). Grundul este deosebit de potrivit pentru suporturi neabsorbante - inainte de asamblarea placilor noi de faianta si teracota pe suporturi ceramice vechi sau vopsite (tigla pe gresie). Produsul este recomandat pentru utilizare înainte de construirea unui sistem de izolare termică pentru fațade DEKOTHERM.",
+      "price": "79"
+    },
+    {
+      "id": "19",
+      "system": "DEKOTHERM",
+      "img": "https://shop.orgachim.bg/content/files/2022/12/01/96388fe1db8a349072fe5f283459946d_product-detail.png",
+      "productType": "Grund concentrat",
+      "textureImg": "https://shop.orgachim.bg/content/files/2022/12/01/96388fe1db8a349072fe5f283459946d_product-detail.png",
+      "option": "1:10 5L",
+      "info": "DEKO professional G8520 este un grund pe bază de apă pentru impregnarea bazelor înainte de vopsirea interioară și exterioară și înainte de aplicarea tencuielilor și vopselelor decorative.",
+      "price": "23"
+    },
+    {
+      "id": "20-1",
+      "system": "DEKOTHERM",
+      "img": "https://shop.orgachim.bg/content/files/2022/12/01/aa41c7fe00e994bc1e19d613725f3483_product-detail.png",
+      "productType": "Grund Contact Concentrat",
+      "option": "1:10 5L",
+      "textureImg": "https://shop.orgachim.bg/content/files/2022/12/01/aa41c7fe00e994bc1e19d613725f3483_product-detail.png",
+      "info": "DEKO professional G8400 Concentrat de grund de contact DEKO professional G8400 este un concentrat de grund acrilat destinat suprafetelor de beton inainte de aplicarea sapelor de ciment.  Produsul intareste baza, ii uniformizeaza capacitatea de absorbtie si imbunatateste aderenta la sape subtiri de beton sau ciment.",
+      "price": "22"
+    }
+  ],
+  "adezivi": [
+    {
+      "id": "23",
+      "system": "DEKOTHERM",
+      "img": "https://shop.orgachim.bg/content/files/2023/07/06/2b1a738a52b5331961a382d84ffa6aad_product-detail.png",
+      "productType": "Adeziv Thermo Fix",
+      "textureImg": "https://shop.orgachim.bg/content/files/2023/07/06/2b1a738a52b5331961a382d84ffa6aad_product-detail.png",
+      "option": "Greutatea 25kg",
+      "info": "Amestec adeziv uscat pentru lipirea EPS și XPS (polistiren expandat / extrudat) pe un perete sau tavan direct pe tencuială, zidărie sau beton. Fibrele de armare și fibrele din compoziția lipiciului îi măresc rezistența și rezistența mecanică.",
+      "price": "14"
+    },
+    {
+      "id": "24",
+      "system": "DEKOTHERM",
+      "img": "https://shop.orgachim.bg/content/files/2022/08/15/62bb723ca8dfd39dfafa81ec090b6488_product-detail.png",
+      "productType": "Adeziv Thermo Mineral",
+      "textureImg": "https://shop.orgachim.bg/content/files/2022/08/15/62bb723ca8dfd39dfafa81ec090b6488_product-detail.png",
+      "option": "Greutatea 25 kg",
+      "info": "Deko professional Thermo Mineral este un amestec uscat de adeziv și chit pentru lipirea și tencuiala plăcilor termoizolante din vată de piatră, EPS și XPS. Amestecul adeziv-chit conține fibre care oferă o rezistență și o elasticitate mai mare și, în același timp, îmbunătățesc aderența la bază.",
+      "price": "22"
+    },
+    {
+      "id": "26",
+      "system": "DEKOTHERM",
+      "img": "https://shop.orgachim.bg/content/files/2022/08/15/23a8c9e9fb582575be21f9a9b2405e19_product-detail.png",
+      "productType": "Adeziv Thermo Universal",
+      "textureImg": "https://shop.orgachim.bg/content/files/2022/08/15/23a8c9e9fb582575be21f9a9b2405e19_product-detail.png",
+      "option": "Greutatea 25 kg",
+      "info": "Thermo Universal este un amestec uscat de adeziv și chit pentru lipirea EPS și XPS (polistiren expandat / extrudat) pe un perete sau tavan direct pe tencuială, zidărie sau beton și pentru lipirea panourilor termoizolante cu inserarea unei plase de armare de fibra de sticla pe sisteme de termoizolatie interioare si exterioare. Fibrele de celuloză conținute în amestec măresc rezistența și rezistența întregului sistem de izolare termică la răni, fisuri și impacturi.",
+      "price": "19"
+    }
+  ],
+  "hidroizolatii": [
+    {
+      "id": "20",
+      "system": "HIDROSYSTEM",
+      "img": "https://shop.orgachim.bg/content/files/2022/08/16/bc08996aaa95d642757e3cf83bdd28f2_product-detail.png",
+      "productType": "HydroProtect MONO",
+      "textureImg": "https://shop.orgachim.bg/content/files/2022/08/16/bc08996aaa95d642757e3cf83bdd28f2_product-detail.png",
+      "option": "Greutatea 25kg",
+      "info": "HydroProtect MONO este un hidroizolant cristalizant de înaltă calitate sub formă de amestec uscat, care, după amestecare cu apă, formează o soluție lichidă și poate fi aplicat cu o perie plată, racletă sau spray. După uscare, produsul formează un strat dur care devine parte integrantă a fundațiilor din beton. Cristalizează în porii și capilarele betonului la contactul cu umiditatea sau apa.HydroProtect MONO este conceput pentru hidroizolarea piscinelor, rezervoarelor din zidarie sau beton care contin apa potabila - turnuri de apa, captare si altele; rezervoare din beton sau zidărie care conțin apă uzată.",
+      "price": "55",
+      "masa": "25"
+    },
+    {
+      "id": "21",
+      "system": "HIDROSYSTEM",
+      "img": "https://shop.orgachim.bg/content/files/2022/08/16/b03bf475daaea239d914c222eedf8e60_product-detail.png",
+      "productType": "HydroProtect 2K",
+      "textureImg": "https://shop.orgachim.bg/content/files/2022/08/16/b03bf475daaea239d914c222eedf8e60_product-detail.png",
+      "option": "Greutatea 26kg",
+      "info": "Hidroizolație flexibilă, bicomponentă, pe bază de ciment, acoperind fisuri structurale de până la 1,0 mm. Se foloseste pentru: hidroizolarea teraselor si balcoanelor, piscinelor, cazilor de baie, rezervoarelor, bailor, cabinelor de dus si incaperilor supuse umiditatii ridicate; hidroizolarea teraselor si balcoanelor, inainte de pozarea ceramicii; hidroizolarea teraselor vechi fără a distruge pardoseala existentă; hidroizolarea structurilor din beton, înainte de așezarea șapelor de ciment sau turnarea betonului nou.",
+      "price": "119",
+      "masa": "26"
+    },
+    {
+      "id": "22",
+      "system": "HIDROSYSTEM",
+      "img": "https://shop.orgachim.bg/content/files/2022/08/16/9e5000a3fe5a79bebbf25380523a9e5c_product-detail.png",
+      "productType": "HydroProtect 2K FLEX",
+      "option": "Greutatea 32kg",
+      "price": "166",
+      "masa": "32",
+      "info": "Deko profesional HydroProtect FLEX este o hidroizolație flexibilă din două componente pe bază de ciment care acoperă fisurile structurale de până la 1,5 mm la temperaturi de până la -20°C. Produsul este destinat hidroizolării băilor, cabinelor de duș, încăperilor supuse umidității ridicate, piscinelor, căzilor, rezervoarelor de apă, hidroizolațiilor teraselor și balcoanelor, înainte de montarea paramentelor ceramice, granit sau piatră",
+      "textureImg": "https://shop.orgachim.bg/content/files/2022/08/16/9e5000a3fe5a79bebbf25380523a9e5c_product-detail.png"
+    }
+  ],
+  "maxFifteen": [
+    {
+      "id": "1501",
+      "system": "MAX 15",
+      "img": "https://shop.orgachim.bg/content/files/2022/10/24/d1e63e22d6d2dcc4d947a8224a66c3eb_product-detail.png",
+      "productType": "Grund cu nisip",
+      "description": "Grund acrilat gata de utilizare care contine nisip cuarcios"
+    },
+    {
+      "id": "1502",
+      "system": "MAX 15",
+      "img": "https://shop.orgachim.bg/content/files/2022/08/15/62bb723ca8dfd39dfafa81ec090b6488_product-detail.png",
+      "productType": "Adeziv Thermo Mineral",
+      "description": "Conține fibre care oferă o rezistență și o elasticitate mare."
+    },
+    {
+      "id": "1503",
+      "system": "MAX 15",
+      "img": "https://policonstruct.md/wp-content/uploads/2020/05/vata-minerala-obio-6-foi.jpg",
+      "productType": "Vată minerală",
+      "description": "Rezistenta crescuta la vaporii de apa, datorita foliei de aluminiu."
+    },
+    {
+      "id": "15099",
+      "system": "MAX 15",
+      "img": "https://deko-professional.bg/wp-content/uploads/2022/08/DEKOTHERM-STANDART-5-7-400x400.png",
+      "productType": "Dibluri",
+      "description": "Dibluri pentru vata"
+    },
+    {
+      "id": "1504",
+      "system": "MAX 15",
+      "img": "https://shop.orgachim.bg/content/files/2022/10/06/b07841f339c4546fb95342e185d7da41_product-detail.png",
+      "productType": "Grund Silicon",
+      "description": "Produs destinat amorsarii peretilor inainte de aplicarea tencuielii."
+    },
+    {
+      "id": "1505",
+      "system": "DEKOTHERM",
+      "img": "https://shop.orgachim.bg/content/files/2023/02/24/3e1a4b76553dff1b46df9198669fb90a_lg.png",
+      "productType": "Tencuială Poliuretan",
+      "description": "Mărimea D1.5/25kg sau B2/25kg "
+    }
+  ],
+  "maxTen": [
+    {
+      "id": "1001",
+      "system": "MAX 10",
+      "img": "https://shop.orgachim.bg/content/files/2022/10/24/d1e63e22d6d2dcc4d947a8224a66c3eb_product-detail.png",
+      "productType": "Grund cu nisip",
+      "description": "Grund acrilat gata de utilizare care contine nisip cuarcios"
+    },
+    {
+      "id": "1002",
+      "system": "MAX 10",
+      "img": "https://shop.orgachim.bg/content/files/2022/08/15/62bb723ca8dfd39dfafa81ec090b6488_product-detail.png",
+      "productType": "Adeziv Thermo Mineral",
+      "description": "Conține fibre care oferă o rezistență și o elasticitate mare."
+    },
+    {
+      "id": "1003",
+      "system": "MAX 10",
+      "img": "https://policonstruct.md/wp-content/uploads/2020/05/vata-minerala-obio-6-foi.jpg",
+      "productType": "Vată minerală",
+      "description": "Rezistenta crescuta la vaporii de apa, datorita foliei de aluminiu."
+    },
+    {
+      "id": "15099",
+      "system": "MAX 15",
+      "img": "https://deko-professional.bg/wp-content/uploads/2022/08/DEKOTHERM-STANDART-5-7-400x400.png",
+      "productType": "Dibluri",
+      "description": "Dibluri pentru vata"
+    },
+    {
+      "id": "1004",
+      "system": "MAX 10",
+      "img": "https://shop.orgachim.bg/content/files/2022/10/06/b07841f339c4546fb95342e185d7da41_product-detail.png",
+      "productType": "Grund Silicon",
+      "description": "Produs destinat amorsarii peretilor inainte de aplicarea tencuielii."
+    },
+    {
+      "id": "1005",
+      "system": "MAX 10",
+      "img": "https://shop.orgachim.bg/content/files/2022/11/28/f32abe7fbc56f3c1afed4c0b7c52e1eb_product-detail.png",
+      "productType": "Tencuială Siliconică sau Silicat Modificat",
+      "description": "Mărimea D1/25kg, D1.5/25kg, D2/25kg sau B2/25kg, B3/25kg "
+    }
+  ],
+  "standardTen": [
+    {
+      "id": "10011",
+      "system": "STANDARD 10",
+      "img": "https://shop.orgachim.bg/content/files/2022/10/24/d1e63e22d6d2dcc4d947a8224a66c3eb_product-detail.png",
+      "productType": "Grund cu nisip",
+      "description": "Grund acrilat gata de utilizare care contine nisip cuarcios"
+    },
+    {
+      "id": "10022",
+      "system": "STANDARD 10",
+      "img": "https://shop.orgachim.bg/content/files/2023/07/06/2b1a738a52b5331961a382d84ffa6aad_product-detail.png",
+      "productType": "Adeziv Thermo Fix",
+      "description": "Fibrele de armare măresc rezistența mecanică."
+    },
+    {
+      "id": "10033",
+      "system": "STANDARD 10",
+      "img": "https://nanu.md/71092-large_default/polistiren-expandat-pentru-fatada-fs35-eps-200-100-x-50-x-10-cm-6-buccutie.jpg",
+      "productType": "Polistiren",
+      "description": "Ignifug, cu proprietăți bune de izolare termică şi fonică."
+    },
+    {
+      "id": "15099",
+      "system": "MAX 15",
+      "img": "https://deko-professional.bg/wp-content/uploads/2022/08/DEKOTHERM-STANDART-5-7-400x400.png",
+      "productType": "Dibluri",
+      "description": "Dibluri pentru polistiren"
+    },
+    {
+      "id": "10044",
+      "system": "STANDARD 10",
+      "img": "https://shop.orgachim.bg/content/files/2022/10/06/b07841f339c4546fb95342e185d7da41_product-detail.png",
+      "productType": "Grund Silicon",
+      "description": "Produs destinat amorsarii peretilor inainte de aplicarea tencuielii."
+    },
+    {
+      "id": "10055",
+      "system": "STANDARD 10",
+      "img": "https://shop.orgachim.bg/content/files/2023/02/24/3e1a4b76553dff1b46df9198669fb90a_lg.png",
+      "productType": "Siliconică S.Modificat și Polimerică",
+      "description": "Orice mărime"
+    }
+  ],
+  "standardFive": [
+    {
+      "id": "5001",
+      "system": "STANDARD 10",
+      "img": "https://shop.orgachim.bg/content/files/2022/10/24/d1e63e22d6d2dcc4d947a8224a66c3eb_product-detail.png",
+      "productType": "Grund cu nisip",
+      "description": "Grund acrilat gata de utilizare care contine nisip cuarcios"
+    },
+    {
+      "id": "5002",
+      "system": "STANDARD 10",
+      "img": "https://shop.orgachim.bg/content/files/2022/08/15/010af32697491bbe15b18016137c59bc_product-detail.png",
+      "productType": "Adeziv Thermo Expert",
+      "description": "Conține fibre care oferă o rezistență și o elasticitate mai mare."
+    },
+    {
+      "id": "5003",
+      "system": "STANDARD 10",
+      "img": "https://nanu.md/71092-large_default/polistiren-expandat-pentru-fatada-fs35-eps-200-100-x-50-x-10-cm-6-buccutie.jpg",
+      "productType": "Polistiren",
+      "description": "Ignifug, cu proprietăți bune de izolare termică şi fonică."
+    },
+    {
+      "id": "15099",
+      "system": "MAX 15",
+      "img": "https://deko-professional.bg/wp-content/uploads/2022/08/DEKOTHERM-STANDART-5-7-400x400.png",
+      "productType": "Dibluri",
+      "description": "Dibluri pentru polistiren"
+    },
+    {
+      "id": "5004",
+      "system": "STANDARD 10",
+      "img": "https://shop.orgachim.bg/content/files/2022/10/06/b07841f339c4546fb95342e185d7da41_product-detail.png",
+      "productType": "Grund Silicon",
+      "description": "Produs destinat amorsarii peretilor inainte de aplicarea tencuielii."
+    },
+    {
+      "id": "50055",
+      "system": "STANDARD 10",
+      "img": "https://shop.orgachim.bg/content/files/2023/02/24/3e1a4b76553dff1b46df9198669fb90a_lg.png",
+      "productType": "Tencuială Relief S.Modificat, Poliuretan",
+      "description": "Orice mărime"
+    }
+  ],
+  "top": [
+    {
+      "id": "9",
+      "system": "DEKOTHERM",
+      "img": "https://shop.orgachim.bg/content/files/2022/11/28/0d935ebed52e96742e2dd56410fb1105_product-detail.png",
+      "productType": "Tencuială Silicat Modificat",
+      "textureImg": "https://deko-professional.bg/wp-content/uploads/2022/07/shutterstock_344425091-1-2.jpg",
+      "option": "Mărimea D2/25kg",
+      "info": "DEKO professional Silicat Modificat, structura zgariata B2 este un strat de protectie decorativ pentru pereti de uz interior sau exterior. Produsul se caracterizează prin rezistență excelentă la influențele atmosferice și rezistență ridicată la ardere (reacție la foc conform BDS EN 13501 - 1:2007+A1:2009 - clasa A2 - s1, d0). Tencuiala este folosita si ca acoperire de finisare la construirea unui sistem de izolare termica pentru fatada DEKOTHERM.",
+      "price": "146"
+    },
+    {
+      "id": "6",
+      "system": "DEKOTHERM",
+      "img": "https://shop.orgachim.bg/content/files/2022/11/28/f32abe7fbc56f3c1afed4c0b7c52e1eb_product-detail.png",
+      "productType": "Tencuială Siliconică",
+      "textureImg": "https://deko-professional.bg/wp-content/uploads/2022/07/shutterstock_111496382-1-1.jpg",
+      "option": "Mărimea B2/25kg",
+      "info": "DEKO professional®  Vopsea pentru fațade cu silicon este un produs pentru vopsirea exterioară, conceput pentru decorarea și protecția fațadelor supuse efectelor atmosferice nocive - apă, umiditate, raze ultraviolete, schimbări de temperatură și altele.Produsul poate fi folosit și ca element al sistemului de izolare termică DEKOTHERM®.",
+      "price": "78"
+    },
+    {
+      "id": "10",
+      "system": "DEKOTHERM",
+      "img": "https://shop.orgachim.bg/content/files/2022/11/28/0d935ebed52e96742e2dd56410fb1105_product-detail.png",
+      "productType": "Tencuială Silicat Modificat",
+      "option": "Mărimea B2/25kg",
+      "info": "DEKO professional Silicat Modificat, structura zgariata B2 este un strat de protectie decorativ pentru pereti de uz interior sau exterior. Produsul se caracterizează prin rezistență excelentă la influențele atmosferice și rezistență ridicată la ardere (reacție la foc conform BDS EN 13501 - 1:2007+A1:2009 - clasa A2 - s1, d0). Tencuiala este folosita si ca acoperire de finisare la construirea unui sistem de izolare termica pentru fatada DEKOTHERM.",
+      "price": "124",
+      "textureImg": "https://deko-professional.bg/wp-content/uploads/2022/07/shutterstock_111496382-1-1.jpg"
+    },
+    {
+      "id": "4",
+      "system": "DEKOTHERM",
+      "price": "98",
+      "img": "https://shop.orgachim.bg/content/files/2022/11/28/f32abe7fbc56f3c1afed4c0b7c52e1eb_product-detail.png",
+      "productType": "Tencuială Siliconică",
+      "option": "Mărimea D2/25kg",
+      "info": "DEKO professional®Vopsea pentru fațade cu silicon este un produs pentru vopsirea exterioară, conceput pentru decorarea și protecția fațadelor supuse efectelor atmosferice nocive - apă, umiditate, raze ultraviolete, schimbări de temperatură și altele.Produsul poate fi folosit și ca element al sistemului de izolare termică DEKOTHERM®.",
+      "textureImg": "https://deko-professional.bg/wp-content/uploads/2022/07/shutterstock_344425091-1-2.jpg"
+    },
+    {
+      "id": "14",
+      "system": "DEKOTHERM",
+      "img": "https://shop.orgachim.bg/content/files/2022/11/28/97339b448313c120d5477006c436ac24_product-detail.png",
+      "productType": "Tencuială Polimerică",
+      "option": "Mărimea B2/25kg",
+      "info": "DEKO profesional Tencuiala polimerica, este un strat de protectie decorativ pentru pereti de uz interior sau exterior. Produsul se caracterizează printr-o rezistență excelentă la intemperii și o rezistență foarte bună la crăpare a stratului de acoperire. Tencuiala polimerică T8300 este folosită și ca strat de finisare la construirea unui sistem de izolare termică pentru fațadă DEKOTHERM.",
+      "price": "100",
+      "textureImg": "https://deko-professional.bg/wp-content/uploads/2022/07/shutterstock_111496382-1-1.jpg"
+    },
+    {
+      "id": "15",
+      "system": "DEKOTHERM",
+      "img": "https://shop.orgachim.bg/content/files/2022/11/28/97339b448313c120d5477006c436ac24_product-detail.png",
+      "productType": "Tencuială Polimerică",
+      "info": "DEKO profesional Tencuiala polimerica, este un strat de protectie decorativ pentru pereti de uz interior sau exterior. Produsul se caracterizează printr-o rezistență excelentă la intemperii și o rezistență foarte bună la crăpare a stratului de acoperire. Tencuiala polimerică T8300 este folosită și ca strat de finisare la construirea unui sistem de izolare termică pentru fațadă DEKOTHERM.",
+      "price": "100",
+      "option": "Mărimea B3/25kg",
+      "textureImg": "https://deko-professional.bg/wp-content/uploads/2022/07/shutterstock_111496382-1-1.jpg"
+    }
+  ],
+  "user": [
+    {
+      "id": "1",
+      "name": "Eugenia",
+      "password": "admin",
+      "email": "eugenia.vitinschaia@gmail.com"
+    },
+    {
+      "id": "2",
+      "name": "admin",
+      "password": "admin",
+      "email": "eugenia.vitinschaia@gmail.com"
+    },
+    {
+      "email": "email.com",
+      "name": "Admin-1",
+      "password": "pass",
+      "id": "R2M7-50"
+    },
+    {
+      "email": "",
+      "name": "",
+      "password": "",
+      "id": "HfH0vPH"
+    },
+    {
+      "email": "",
+      "name": "",
+      "password": "",
+      "id": "e8SplXd"
+    },
+    {
+      "email": "",
+      "name": "",
+      "password": "",
+      "id": "j5p-ado"
+    },
+    {
+      "email": "",
+      "name": "",
+      "password": "",
+      "id": "8asee0G"
+    }
+  ]
+}
