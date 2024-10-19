@@ -10,7 +10,7 @@
               :key="item.id"
               :img="item.img"
               :information="item.information"
-              :href="href"
+              :href="item.href"
             />
           </div>
         </div>

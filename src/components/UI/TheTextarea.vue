@@ -22,9 +22,6 @@
    <script>
    export default {
       name: "TheInput",
-      data(){
-   
-      },
       props:{
          modelValue:{
             type: String,

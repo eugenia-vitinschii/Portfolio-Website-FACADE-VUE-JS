@@ -22,6 +22,9 @@
       align-self: center;
       margin-top: $margin-sm;
       margin-bottom: $margin-sm;
+      a {
+         margin-left: 20px;
+      }
    }
    &__content-logo {
       max-width: 700px;

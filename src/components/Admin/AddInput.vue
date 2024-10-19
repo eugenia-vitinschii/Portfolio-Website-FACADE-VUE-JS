@@ -14,9 +14,6 @@
 <script>export default {
    name: "AddInput",
    components: {}, 
-   data(){
-     return {}
-   },
    props:{
       value:{
          type: String

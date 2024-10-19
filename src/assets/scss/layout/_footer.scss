@@ -116,9 +116,7 @@
  
  @media (max-width: 517px) {
    .footer {
- 
      &__info {
-       //wrapper for contacts & program
        flex-direction: column;
      }
      &__links {
@@ -134,6 +132,13 @@
          color: $white;
        }
      }
+     &___program {
+      margin: 0px 0px;
+
+    }
+    &__contacts {
+      margin: 0px 20px 10px 10px;
+    }
    }
  }
  

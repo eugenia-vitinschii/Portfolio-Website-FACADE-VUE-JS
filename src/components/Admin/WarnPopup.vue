@@ -8,11 +8,6 @@
 export default {
   name: "WarnPopup",
   components: {},
-  data() {
-    return {
-      
-    };
-  },
   props: {
     showWarnPopup:{
     type: Boolean,

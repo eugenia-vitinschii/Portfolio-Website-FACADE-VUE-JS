@@ -22,11 +22,7 @@
 <script>
 export default {
    name: "CheckboxComponent",
-     data() {
-      return {
- 
-    }
-      },
+
       props: {
     label: String,
 

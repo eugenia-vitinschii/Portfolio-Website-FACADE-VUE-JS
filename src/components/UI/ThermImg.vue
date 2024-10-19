@@ -12,7 +12,6 @@
 <script>
 export default {
   name: "ThremImg",
-  data() {},
   props: {
     imgMaterial: {
       type: String,

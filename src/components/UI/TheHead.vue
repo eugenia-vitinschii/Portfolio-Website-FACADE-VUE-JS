@@ -7,9 +7,6 @@
 
 export default {
    name: "TheHead",
-   data(){
-
-   }
 }
 
 </script>

@@ -48,7 +48,7 @@
       "textureImg": "https://deko-professional.bg/wp-content/uploads/2022/07/shutterstock_111496382-1-1.jpg",
       "option": "Mărimea B2/25kg",
       "info": "DEKO professional®  Vopsea pentru fațade cu silicon este un produs pentru vopsirea exterioară, conceput pentru decorarea și protecția fațadelor supuse efectelor atmosferice nocive - apă, umiditate, raze ultraviolete, schimbări de temperatură și altele.Produsul poate fi folosit și ca element al sistemului de izolare termică DEKOTHERM®.",
-      "price": "78"
+      "price": "77"
     },
     {
       "id": "7",
@@ -276,7 +276,7 @@
     {
       "id": "1503",
       "system": "MAX 15",
-      "img": "https://policonstruct.md/wp-content/uploads/2020/05/vata-minerala-obio-6-foi.jpg",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUbWoov7eOLTAZLs8Lihj2wrOR89Bzesbb_w&s",
       "productType": "Vată minerală",
       "description": "Rezistenta crescuta la vaporii de apa, datorita foliei de aluminiu."
     },
@@ -320,7 +320,7 @@
     {
       "id": "1003",
       "system": "MAX 10",
-      "img": "https://policonstruct.md/wp-content/uploads/2020/05/vata-minerala-obio-6-foi.jpg",
+      "img": "https://stroivita.by/wp-content/uploads/2017/06/uteplitel-penoplast-ppt-35h-a-p.png",
       "productType": "Vată minerală",
       "description": "Rezistenta crescuta la vaporii de apa, datorita foliei de aluminiu."
     },
@@ -364,7 +364,7 @@
     {
       "id": "10033",
       "system": "STANDARD 10",
-      "img": "https://nanu.md/71092-large_default/polistiren-expandat-pentru-fatada-fs35-eps-200-100-x-50-x-10-cm-6-buccutie.jpg",
+      "img": "https://stroivita.by/wp-content/uploads/2017/06/uteplitel-penoplast-ppt-35h-a-p.png",
       "productType": "Polistiren",
       "description": "Ignifug, cu proprietăți bune de izolare termică şi fonică."
     },
@@ -408,7 +408,7 @@
     {
       "id": "5003",
       "system": "STANDARD 10",
-      "img": "https://nanu.md/71092-large_default/polistiren-expandat-pentru-fatada-fs35-eps-200-100-x-50-x-10-cm-6-buccutie.jpg",
+      "img": "https://stroivita.by/wp-content/uploads/2017/06/uteplitel-penoplast-ppt-35h-a-p.png",
       "productType": "Polistiren",
       "description": "Ignifug, cu proprietăți bune de izolare termică şi fonică."
     },
@@ -538,6 +538,24 @@
       "name": "",
       "password": "",
       "id": "8asee0G"
+    },
+    {
+      "email": "",
+      "name": "",
+      "password": "",
+      "id": "uR5Le64"
+    },
+    {
+      "email": "",
+      "name": "",
+      "password": "",
+      "id": "FNq5dR5"
+    },
+    {
+      "email": "",
+      "name": "",
+      "password": "",
+      "id": "YnACZYB"
     }
   ]
 }

@@ -17,13 +17,12 @@
 }
 
 .green__button {
-   background: $green;
-   color: $white;
+   @include button($white, $green);
 }
 
 .red__button {
-   background: $red;
-   color: $white;
+   @include button($white, $red);
+
 }
 
 .black__button.hidden {

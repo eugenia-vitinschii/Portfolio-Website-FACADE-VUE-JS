@@ -12,10 +12,10 @@
             </p>
           </div>
           <div class="appeal__content-buttons">
-            <router-link class="header__info-item txt" to="/produse">
+            <router-link class="header__info-item" to="/produse">
               Produse
             </router-link>
-            <router-link class="header__info-item txt" to="/contacte">
+            <router-link class="header__info-item" to="/contacte">
              Contacte
             </router-link>
           </div>

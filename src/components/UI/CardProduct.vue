@@ -30,14 +30,7 @@
 
 
 export default {
- 
    name: "CardProduct",
-   data(){
-      return {
-      }   
-   },
-
-
    props:{
       img: {
          type: String

@@ -18,7 +18,6 @@ import TheHead from "./TheHead.vue";
 export default {
   components: { TheHead },
   name: "ThremDescription",
-  data() {},
   props: {
    thermSystem: {
       type: String,
@@ -32,7 +31,3 @@ export default {
   },
 };
 </script>
-
-<style lang="scss">
- 
-</style>

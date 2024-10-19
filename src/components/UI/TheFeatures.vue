@@ -16,9 +16,7 @@
 <script>
 export default {
    name: "TheFeatures",
-   data(){
 
-   },
    props:{
       text:{
          type: String,

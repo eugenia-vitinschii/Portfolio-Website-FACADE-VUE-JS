@@ -1,9 +1,7 @@
 <template>
- 
     <a :href="href" class="paragraph">
       {{ link }}
     </a>
- 
 </template>
  
  <script>
@@ -20,5 +18,3 @@ export default {
 };
 </script>
  
- <style lang="scss">
-</style>

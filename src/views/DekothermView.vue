@@ -15,6 +15,7 @@
             />
           </div>
           <div class="therm__item">
+            <table class="therm__table">
             <therm-item
               v-for="product in products"
               :key="product.id"
@@ -22,11 +23,8 @@
               :system="product.system"
               :productType="product.productType"
               :descitption="product.description"
-            />
-            <div class="therm__space"></div>
-            <div class="therm__space"></div>
-            <div class="therm__space"></div>
-            <div class="therm__space"></div>
+            />              
+            </table>
           </div>
         </div>
         <div class="therm__system">
@@ -39,7 +37,8 @@
             <therm-img :imgMaterial="maxTenMaterial" :imgYears="maxTenYears" />
           </div>
           <div class="therm__item">
-            <therm-item
+            <table class="therm__table">
+             <therm-item
               v-for="product in maxTen"
               :key="product.id"
               :img="product.img"
@@ -47,6 +46,8 @@
               :productType="product.productType"
               :descitption="product.description"
             />
+            </table>
+
             <div class="therm__space"></div>
             <div class="therm__space"></div>
             <div class="therm__space"></div>
@@ -66,6 +67,7 @@
             />
           </div>
           <div class="therm__item">
+            <table class="therm__table">
             <therm-item
               v-for="product in standardTen"
               :key="product.id"
@@ -73,7 +75,9 @@
               :system="product.system"
               :productType="product.productType"
               :descitption="product.description"
-            />
+            />              
+            </table>
+
             <div class="therm__space"></div>
             <div class="therm__space"></div>
             <div class="therm__space"></div>
@@ -93,6 +97,7 @@
             />
           </div>
           <div class="therm__item">
+            <table class="therm__table">
             <therm-item
               v-for="product in standardFive"
               :key="product.id"
@@ -100,7 +105,9 @@
               :system="product.system"
               :productType="product.productType"
               :descitption="product.description"
-            />
+            />              
+            </table>
+
             <div class="therm__space"></div>
             <div class="therm__space"></div>
             <div class="therm__space"></div>
@@ -138,9 +145,9 @@ export default {
       standardSecond: "Standard 5",
       polistiren: "polistiren",
       vata: "vată minerală",
-      fifteen: "15",
-      ten: "10",
-      five: "5",
+      fifteen: 15,
+      ten: 10,
+      five: 5,
       maxFifteemMaterial: require("@/assets/img/DEKOTHERM-MAX15.png"),
       maxFifteemYears: require("@/assets/img/garantie15.png"),
       maxTenMaterial: require("@/assets/img/MAX10.png"),
@@ -176,6 +183,3 @@ export default {
   },
 };
 </script>
-
-<style lang="scss">
-</style>

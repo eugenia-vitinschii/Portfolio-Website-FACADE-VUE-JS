@@ -41,12 +41,6 @@
 export default {
    inheritAttrs: false,
    name: "CostCalculation",
-   data(){
-      return{
-        
-      }
-
-   },
    props:{
       lungimea:{
          type:Number,

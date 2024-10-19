@@ -7,9 +7,6 @@
 <script>
 export default {
    name: "BlackButton",
-   data(){
-
-   }
 }
 
 </script>
